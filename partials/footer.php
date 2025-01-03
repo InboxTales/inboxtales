@@ -39,24 +39,24 @@
                                                 <span
                                                     class="block font-syne text-[21px] font-bold leading-[1.42] text-colorLightLime">Give
                                                     us a call:</span>
-                                                <a href="tel:+1234567890"
-                                                    class="text-[21px] leading-[1.42] text-colorButteryWhite">(123)
-                                                    456-7890</a>
+                                                <a href="tel:+919640470432"
+                                                    class="text-[21px] leading-[1.42] text-colorButteryWhite">+91
+                                                    96404 70432</a>
                                             </li>
                                             <li>
                                                 <span
                                                     class="block font-syne text-[21px] font-bold leading-[1.42] text-colorLightLime">Send
                                                     us an email:
                                                 </span>
-                                                <a href="mailto:yourmail@email.com"
-                                                    class="text-[21px] leading-[1.42] text-colorButteryWhite">yourmail@email.com</a>
+                                                <a href="mailto:contact@inboxtales.com"
+                                                    class="text-[21px] leading-[1.42] text-colorButteryWhite">contact@inboxtales.com</a>
                                             </li>
                                         </ul>
                                         <!-- Footer Info -->
 
                                         <!-- Social Link -->
                                         <div class="mt-11 flex w-full gap-4">
-                                            <a href="http://www.twitter.com" target="_blank" rel="noopener noreferrer"
+                                            <a href="https://x.com/InboxTales" target="_blank" rel="noopener noreferrer"
                                                 class="group/link relative inline-flex h-[34px] w-[34px] items-center justify-center rounded-[50%] border border-colorButteryWhite bg-black transition-all duration-300 hover:border-black hover:bg-colorLightLime hover:shadow-[0_1.5px_0_0] hover:shadow-colorButteryWhite">
                                                 <img src="assets/img/icons/icon-logo-buttery-white-twitter.svg"
                                                     alt="icon-logo-buttery-white-twitter" width="19" height="16"
@@ -65,7 +65,8 @@
                                                     alt="icon-logo-black-twitter" width="19" height="16"
                                                     class="absolute opacity-0 transition-all duration-300 group-hover/link:opacity-100" />
                                             </a>
-                                            <a href="http://www.facebook.com" target="_blank" rel="noopener noreferrer"
+                                            <a href="https://www.facebook.com/InboxTalesofficial" target="_blank"
+                                                rel="noopener noreferrer"
                                                 class="group/link relative inline-flex h-[34px] w-[34px] items-center justify-center rounded-[50%] border border-colorButteryWhite bg-black transition-all duration-300 hover:border-black hover:bg-colorLightLime hover:shadow-[0_1.5px_0_0] hover:shadow-colorButteryWhite">
                                                 <img src="assets/img/icons/icon-logo-buttery-white-facebook.svg"
                                                     alt="icon-logo-buttery-white-facebook" width="10" height="17"
@@ -74,7 +75,8 @@
                                                     alt="icon-logo-black-facebook" width="10" height="17"
                                                     class="absolute opacity-0 transition-all duration-300 group-hover/link:opacity-100" />
                                             </a>
-                                            <a href="http://www.instagram.com" target="_blank" rel="noopener noreferrer"
+                                            <a href="https://www.instagram.com/inboxtales_official/" target="_blank"
+                                                rel="noopener noreferrer"
                                                 class="group/link relative inline-flex h-[34px] w-[34px] items-center justify-center rounded-[50%] border border-colorButteryWhite bg-black transition-all duration-300 hover:border-black hover:bg-colorLightLime hover:shadow-[0_1.5px_0_0] hover:shadow-colorButteryWhite">
                                                 <img src="assets/img/icons/icon-logo-buttery-white-instagram.svg"
                                                     alt="icon-logo-buttery-white-instagram" width="17" height="18"
@@ -83,7 +85,8 @@
                                                     alt="icon-logo-black-instagram" width="17" height="18"
                                                     class="absolute opacity-0 transition-all duration-300 group-hover/link:opacity-100" />
                                             </a>
-                                            <a href="http://www.linkedin.com" target="_blank" rel="noopener noreferrer"
+                                            <a href="https://www.linkedin.com/company/inboxtales/" target="_blank"
+                                                rel="noopener noreferrer"
                                                 class="group/link relative inline-flex h-[34px] w-[34px] items-center justify-center rounded-[50%] border border-colorButteryWhite bg-black transition-all duration-300 hover:border-black hover:bg-colorLightLime hover:shadow-[0_1.5px_0_0] hover:shadow-colorButteryWhite">
                                                 <img src="assets/img/icons/icon-logo-buttery-white-linkedin.svg"
                                                     alt="icon-logo-buttery-white-linkedin" width="17" height="18"
@@ -95,11 +98,11 @@
                                         </div>
                                         <!-- Social Link -->
                                     </div>
-                                    <div class="hidden lg:inline-block">
+                                    <!-- <div class="hidden lg:inline-block">
                                         <img src="assets/img/elemnts/element-light-lime-curve-arrow.svg"
                                             alt="element-light-lime-curve-arrow" width="284" height="153"
                                             class="h-auto max-w-52 lg:inline-block xl:max-w-full" />
-                                    </div>
+                                    </div> -->
                                 </div>
                             </div>
                             <!-- Footer Left Block -->
