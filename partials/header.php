@@ -45,14 +45,18 @@
                                                 <a href="web-design.php">Web Design</a>
                                             </li>
                                             <li class="sub-menu--item">
+                                                <a href="graphic-design.php">Graphic Designing</a>
+                                            </li>
+                                            <li class="sub-menu--item">
+                                                <a href="whatsapp-marketing.php">Whatsapp Marketing</a>
+                                            </li>
+                                            <li class="sub-menu--item">
                                                 <a href="app-development.php">App Development</a>
                                             </li>
                                             <li class="sub-menu--item">
                                                 <a href="cyber-security.php">Cyber Security</a>
                                             </li>
-                                            <li class="sub-menu--item">
-                                                <a href="graphic-design.php">Graphic Designing</a>
-                                            </li>
+
                                             <li class="sub-menu--item">
                                                 <a href="video-editing.php">Video Editing</a>
                                             </li>

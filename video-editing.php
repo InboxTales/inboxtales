@@ -14,8 +14,8 @@
             <!-- Service Details Article -->
             <article>
                 <div class="mb-20 block overflow-hidden rounded-[35px] border-2 border-black lg:border-[5px]">
-                    <img src="assets/img/images/th-1/service-details-img.jpg" alt="service-details-img" width="1286"
-                        height="590" class="h-auto w-full object-cover" />
+                    <img src="assets/img/videoEditing.jpg" alt="service-details-img" width="1286" height="590"
+                        class="h-auto w-full object-cover" />
                 </div>
                 <div class="w-100">
                     <h2>
@@ -189,8 +189,8 @@
                 <div class="jos" data-jos_animation="fade-right">
                     <div
                         class="mx-auto max-w-[495px] overflow-hidden rounded-[25px] border-2 border-black lg:mx-0 lg:max-w-full lg:border-[5px]">
-                        <img src="assets/img/images/th-1/service-details-inner-img.jpg" alt="service-details-inner-img"
-                            width="548" height="632" class="h-auto w-full object-cover" />
+                        <img src="assets/img/videoEditing2.jpg" alt="service-details-inner-img" width="548" height="632"
+                            class="h-auto w-full object-cover" />
                     </div>
                 </div>
                 <!-- Service Content Right Block -->
@@ -228,126 +228,126 @@
             <!-- Section Block -->
 
             <!-- Testimonial List -->
-           <ul class="grid grid-cols-1 gap-x-6 gap-y-[30px] md:grid-cols-2">
-                    <!-- Testimonial Item -->
-                    <li class="jos" data-jos_delay="0">
-                        <div
-                            class="flex h-full flex-col rounded-[20px] border-2 border-black px-[30px] py-6 transition-all duration-300 hover:shadow-[5px_5px_0_0] hover:shadow-black">
-                            <div class="mb-8 flex gap-x-2">
-                                <img src="assets/img/icons/icon-black-star.svg" alt="icon-black-star" width="37"
-                                    height="35" />
-                                <img src="assets/img/icons/icon-black-star.svg" alt="icon-black-star" width="37"
-                                    height="35" />
-                                <img src="assets/img/icons/icon-black-star.svg" alt="icon-black-star" width="37"
-                                    height="35" />
-                                <img src="assets/img/icons/icon-black-star.svg" alt="icon-black-star" width="37"
-                                    height="35" />
-                                <img src="assets/img/icons/icon-black-star.svg" alt="icon-black-star" width="37"
-                                    height="35" />
-                            </div>
-                            <h4 class="mb-5">Outstanding service from InboxTales!</h4>
-                            <p class="mb-[30px]">
-                                Our experience with InboxTales was remarkable. They provided services for Logo Package
-                                Design, Catalogue, and Website Designing for our brand, BT Foods. The quality and
-                                creativity were exceptional!
-                            </p>
-                            <div class="mt-auto flex items-center gap-3">
-                                <div
-                                    class="flex-1 font-syne text-lg font-bold leading-none -tracking-[0.5px] lg:text-[21px]">
-                                    Mouli Kunisetty
-                                </div>
+            <ul class="grid grid-cols-1 gap-x-6 gap-y-[30px] md:grid-cols-2">
+                <!-- Testimonial Item -->
+                <li class="jos" data-jos_delay="0">
+                    <div
+                        class="flex h-full flex-col rounded-[20px] border-2 border-black px-[30px] py-6 transition-all duration-300 hover:shadow-[5px_5px_0_0] hover:shadow-black">
+                        <div class="mb-8 flex gap-x-2">
+                            <img src="assets/img/icons/icon-black-star.svg" alt="icon-black-star" width="37"
+                                height="35" />
+                            <img src="assets/img/icons/icon-black-star.svg" alt="icon-black-star" width="37"
+                                height="35" />
+                            <img src="assets/img/icons/icon-black-star.svg" alt="icon-black-star" width="37"
+                                height="35" />
+                            <img src="assets/img/icons/icon-black-star.svg" alt="icon-black-star" width="37"
+                                height="35" />
+                            <img src="assets/img/icons/icon-black-star.svg" alt="icon-black-star" width="37"
+                                height="35" />
+                        </div>
+                        <h4 class="mb-5">Outstanding service from InboxTales!</h4>
+                        <p class="mb-[30px]">
+                            Our experience with InboxTales was remarkable. They provided services for Logo Package
+                            Design, Catalogue, and Website Designing for our brand, BT Foods. The quality and
+                            creativity were exceptional!
+                        </p>
+                        <div class="mt-auto flex items-center gap-3">
+                            <div
+                                class="flex-1 font-syne text-lg font-bold leading-none -tracking-[0.5px] lg:text-[21px]">
+                                Mouli Kunisetty
                             </div>
                         </div>
-                    </li>
-                    <!-- Testimonial Item -->
-                    <li class="jos" data-jos_delay="0.3">
-                        <div
-                            class="flex h-full flex-col rounded-[20px] border-2 border-black px-[30px] py-6 transition-all duration-300 hover:shadow-[5px_5px_0_0] hover:shadow-black">
-                            <div class="mb-8 flex gap-x-2">
-                                <img src="assets/img/icons/icon-black-star.svg" alt="icon-black-star" width="37"
-                                    height="35" />
-                                <img src="assets/img/icons/icon-black-star.svg" alt="icon-black-star" width="37"
-                                    height="35" />
-                                <img src="assets/img/icons/icon-black-star.svg" alt="icon-black-star" width="37"
-                                    height="35" />
-                                <img src="assets/img/icons/icon-black-star.svg" alt="icon-black-star" width="37"
-                                    height="35" />
-                                <img src="assets/img/icons/icon-black-star.svg" alt="icon-black-star" width="37"
-                                    height="35" />
-                            </div>
-                            <h4 class="mb-5">Amazing work on Funeli!</h4>
-                            <p class="mb-[30px]">
-                                InboxTales provided exceptional Website Design and Development services for our brand
-                                Funeli. Their professionalism and creativity were truly commendable.
-                            </p>
-                            <div class="mt-auto flex items-center gap-3">
-                                <div
-                                    class="flex-1 font-syne text-lg font-bold leading-none -tracking-[0.5px] lg:text-[21px]">
-                                    Anirudh Thotapalli
-                                </div>
+                    </div>
+                </li>
+                <!-- Testimonial Item -->
+                <li class="jos" data-jos_delay="0.3">
+                    <div
+                        class="flex h-full flex-col rounded-[20px] border-2 border-black px-[30px] py-6 transition-all duration-300 hover:shadow-[5px_5px_0_0] hover:shadow-black">
+                        <div class="mb-8 flex gap-x-2">
+                            <img src="assets/img/icons/icon-black-star.svg" alt="icon-black-star" width="37"
+                                height="35" />
+                            <img src="assets/img/icons/icon-black-star.svg" alt="icon-black-star" width="37"
+                                height="35" />
+                            <img src="assets/img/icons/icon-black-star.svg" alt="icon-black-star" width="37"
+                                height="35" />
+                            <img src="assets/img/icons/icon-black-star.svg" alt="icon-black-star" width="37"
+                                height="35" />
+                            <img src="assets/img/icons/icon-black-star.svg" alt="icon-black-star" width="37"
+                                height="35" />
+                        </div>
+                        <h4 class="mb-5">Amazing work on Funeli!</h4>
+                        <p class="mb-[30px]">
+                            InboxTales provided exceptional Website Design and Development services for our brand
+                            Funeli. Their professionalism and creativity were truly commendable.
+                        </p>
+                        <div class="mt-auto flex items-center gap-3">
+                            <div
+                                class="flex-1 font-syne text-lg font-bold leading-none -tracking-[0.5px] lg:text-[21px]">
+                                Anirudh Thotapalli
                             </div>
                         </div>
-                    </li>
-                    <!-- Testimonial Item -->
-                    <li class="jos" data-jos_delay="0.6">
-                        <div
-                            class="flex h-full flex-col rounded-[20px] border-2 border-black px-[30px] py-6 transition-all duration-300 hover:shadow-[5px_5px_0_0] hover:shadow-black">
-                            <div class="mb-8 flex gap-x-2">
-                                <img src="assets/img/icons/icon-black-star.svg" alt="icon-black-star" width="37"
-                                    height="35" />
-                                <img src="assets/img/icons/icon-black-star.svg" alt="icon-black-star" width="37"
-                                    height="35" />
-                                <img src="assets/img/icons/icon-black-star.svg" alt="icon-black-star" width="37"
-                                    height="35" />
-                                <img src="assets/img/icons/icon-black-star.svg" alt="icon-black-star" width="37"
-                                    height="35" />
-                                <img src="assets/img/icons/icon-black-star.svg" alt="icon-black-star" width="37"
-                                    height="35" />
-                            </div>
-                            <h4 class="mb-5">Excellent for Edpoly!</h4>
-                            <p class="mb-[30px]">
-                                InboxTales handled Website Design, Development, and Graphic Designing services for
-                                Edpoly with outstanding precision and creativity. Truly a seamless experience!
-                            </p>
-                            <div class="mt-auto flex items-center gap-3">
-                                <div
-                                    class="text- leading-nonelg flex-1 font-syne font-bold -tracking-[0.5px] lg:text-[21px]">
-                                    Ashok
-                                </div>
+                    </div>
+                </li>
+                <!-- Testimonial Item -->
+                <li class="jos" data-jos_delay="0.6">
+                    <div
+                        class="flex h-full flex-col rounded-[20px] border-2 border-black px-[30px] py-6 transition-all duration-300 hover:shadow-[5px_5px_0_0] hover:shadow-black">
+                        <div class="mb-8 flex gap-x-2">
+                            <img src="assets/img/icons/icon-black-star.svg" alt="icon-black-star" width="37"
+                                height="35" />
+                            <img src="assets/img/icons/icon-black-star.svg" alt="icon-black-star" width="37"
+                                height="35" />
+                            <img src="assets/img/icons/icon-black-star.svg" alt="icon-black-star" width="37"
+                                height="35" />
+                            <img src="assets/img/icons/icon-black-star.svg" alt="icon-black-star" width="37"
+                                height="35" />
+                            <img src="assets/img/icons/icon-black-star.svg" alt="icon-black-star" width="37"
+                                height="35" />
+                        </div>
+                        <h4 class="mb-5">Excellent for Edpoly!</h4>
+                        <p class="mb-[30px]">
+                            InboxTales handled Website Design, Development, and Graphic Designing services for
+                            Edpoly with outstanding precision and creativity. Truly a seamless experience!
+                        </p>
+                        <div class="mt-auto flex items-center gap-3">
+                            <div
+                                class="text- leading-nonelg flex-1 font-syne font-bold -tracking-[0.5px] lg:text-[21px]">
+                                Ashok
                             </div>
                         </div>
-                    </li>
-                    <!-- Testimonial Item -->
-                    <li class="jos" data-jos_delay="0.9">
-                        <div
-                            class="flex h-full flex-col rounded-[20px] border-2 border-black px-[30px] py-6 transition-all duration-300 hover:shadow-[5px_5px_0_0] hover:shadow-black">
-                            <div class="mb-8 flex gap-x-2">
-                                <img src="assets/img/icons/icon-black-star.svg" alt="icon-black-star" width="37"
-                                    height="35" />
-                                <img src="assets/img/icons/icon-black-star.svg" alt="icon-black-star" width="37"
-                                    height="35" />
-                                <img src="assets/img/icons/icon-black-star.svg" alt="icon-black-star" width="37"
-                                    height="35" />
-                                <img src="assets/img/icons/icon-black-star.svg" alt="icon-black-star" width="37"
-                                    height="35" />
-                                <img src="assets/img/icons/icon-black-star.svg" alt="icon-black-star" width="37"
-                                    height="35" />
-                            </div>
-                            <h4 class="mb-5">Flynow Overseases transformation!</h4>
-                            <p class="mb-[30px]">
-                                InboxTales delivered exceptional Graphic Designing, Website Development, and Brand
-                                Building services for Flynow Overseases. Their attention to detail and dedication were
-                                truly inspiring.
-                            </p>
-                            <div class="mt-auto flex items-center gap-3">
-                                <div
-                                    class="flex-1 font-syne text-lg font-bold leading-none -tracking-[0.5px] lg:text-[21px]">
-                                    Subba Sakkiri
-                                </div>
+                    </div>
+                </li>
+                <!-- Testimonial Item -->
+                <li class="jos" data-jos_delay="0.9">
+                    <div
+                        class="flex h-full flex-col rounded-[20px] border-2 border-black px-[30px] py-6 transition-all duration-300 hover:shadow-[5px_5px_0_0] hover:shadow-black">
+                        <div class="mb-8 flex gap-x-2">
+                            <img src="assets/img/icons/icon-black-star.svg" alt="icon-black-star" width="37"
+                                height="35" />
+                            <img src="assets/img/icons/icon-black-star.svg" alt="icon-black-star" width="37"
+                                height="35" />
+                            <img src="assets/img/icons/icon-black-star.svg" alt="icon-black-star" width="37"
+                                height="35" />
+                            <img src="assets/img/icons/icon-black-star.svg" alt="icon-black-star" width="37"
+                                height="35" />
+                            <img src="assets/img/icons/icon-black-star.svg" alt="icon-black-star" width="37"
+                                height="35" />
+                        </div>
+                        <h4 class="mb-5">Flynow Overseases transformation!</h4>
+                        <p class="mb-[30px]">
+                            InboxTales delivered exceptional Graphic Designing, Website Development, and Brand
+                            Building services for Flynow Overseases. Their attention to detail and dedication were
+                            truly inspiring.
+                        </p>
+                        <div class="mt-auto flex items-center gap-3">
+                            <div
+                                class="flex-1 font-syne text-lg font-bold leading-none -tracking-[0.5px] lg:text-[21px]">
+                                Subba Sakkiri
                             </div>
                         </div>
-                    </li>
-                </ul>
+                    </div>
+                </li>
+            </ul>
 
             <!-- Testimonial List -->
         </div>
