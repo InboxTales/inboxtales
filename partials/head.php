@@ -1,14 +1,14 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Aximo - Creative Agency Tailwind Template</title>
+    <title>InboxTales - A tech start for your developmental journey</title>
 
     <!-- Favicon -->
     <link rel="shortcut icon" href="assets/img/favicon.ico" type="image/x-icon" />
 
     <!-- Site font -->
     <link rel="stylesheet" href="assets/fonts/webfonts/inter/stylesheet.css" />
-    <?php echo (isset($css) ? $css   : '')?> 
+    <?php echo (isset($css) ? $css   : '')?>
 
     <!-- Vendor CSS -->
     <link rel="stylesheet" href="assets/css/vendors/swiper-bundle.min.css" />
