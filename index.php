@@ -1135,7 +1135,7 @@
                         <div class="mt-5 text-center">
                             <a href="team-details.php" class="display-heading display-heading-4 mb-4 block">Madav
                                 Reddy</a>
-                            <span class="text-lg md:text-[21px]">Cloud Expert</span>
+                            <span class="text-lg md:text-[21px]">Manager</span>
                         </div>
                     </li>
                 </ul>
