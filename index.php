@@ -359,14 +359,14 @@
     <!-- ...::: About Section End :::... -->
 
     <!-- ...::: Portfolio Section Start :::... -->
-    <section class="section-portfolio">
-        <!-- Section Background -->
+    <!-- <section class="section-portfolio">
+
         <div class="bg-black">
-            <!-- Section Space -->
+
             <div class="section-space">
-                <!-- Section Container -->
+
                 <div class="container">
-                    <!-- Section Block -->
+
                     <div
                         class="section-block mx-auto mb-10 max-w-[650px] text-center md:mb-[60px] xl:mb-20 xl:max-w-[856px]">
                         <h2 class="jos text-colorButteryWhite">
@@ -379,14 +379,12 @@
                             </span>
                         </h2>
                     </div>
-                    <!-- Section Block -->
+
                 </div>
 
-                <!-- Project Slider Area -->
                 <div class="relative group/nav">
                     <div class="swiper projectSliderOne slider-center-inline">
                         <div class="swiper-wrapper">
-                            <!-- Single Slide Item -->
                             <div class="swiper-slide">
                                 <div
                                     class="group relative overflow-hidden rounded-[20px] border-[5px] border-colorButteryWhite">
@@ -417,8 +415,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <!-- Single Slide Item -->
-                            <!-- Single Slide Item -->
+
                             <div class="swiper-slide">
                                 <div
                                     class="group relative overflow-hidden rounded-[20px] border-[5px] border-colorButteryWhite">
@@ -449,227 +446,203 @@
                                     </div>
                                 </div>
                             </div>
-                            <!-- Single Slide Item -->
-                            <!-- Single Slide Item -->
-                            <div class="swiper-slide">
-                                <div
-                                    class="group relative overflow-hidden rounded-[20px] border-[5px] border-colorButteryWhite">
-                                    <img src="assets/img/images/th-1/project-img-3.jpg" alt="project-img-3" width="516"
-                                        height="390"
-                                        class="h-full w-full object-cover transition-all duration-300 group-hover:scale-110" />
+                   
 
-                                    <div
-                                        class="w-[calc(100%-48px) absolute bottom-0 flex flex-col items-start gap-x-10 gap-y-8 p-6 sm:flex-row sm:items-center">
-                                        <div class="max-w-[380px] flex-1 text-colorButteryWhite">
-                                            <a href="portfolio-details.php"
-                                                class="mb-[10px] block font-syne text-2xl font-bold leading-[1.4] group-hover:text-colorLightLime md:text-3xl">App
-                                                UI/UX Design</a>
-                                            <p class="line-clamp-2">
-                                                Designing the UI/UXe for mobile apps and web
-                                                applications to ensure usability & engagement.
-                                            </p>
-                                        </div>
-                                        <a href="portfolio-details.php"
-                                            class="relative inline-flex items-start justify-center overflow-hidden">
-                                            <img src="assets/img/icons/icon-buttery-white-arrow-right.svg"
-                                                alt="icon-buttery-white-arrow-right" width="34" height="28"
-                                                class="translate-x-0 opacity-100 transition-all duration-300 group-hover:translate-x-full group-hover:opacity-0" />
-                                            <img src="assets/img/icons/icon-light-lime-arrow-right.svg"
-                                                alt="light-lime-arrow-right" width="34" height="28"
-                                                class="absolute -translate-x-full opacity-0 transition-all duration-300 group-hover:translate-x-0 group-hover:opacity-100" />
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- Single Slide Item -->
-                            <!-- Single Slide Item -->
-                            <div class="swiper-slide">
-                                <div
-                                    class="group relative overflow-hidden rounded-[20px] border-[5px] border-colorButteryWhite">
-                                    <img src="assets/img/images/th-1/project-img-4.jpg" alt="project-img-4" width="516"
-                                        height="390"
-                                        class="h-full w-full object-cover transition-all duration-300 group-hover:scale-110" />
+    <div class="swiper-slide">
+        <div class="group relative overflow-hidden rounded-[20px] border-[5px] border-colorButteryWhite">
+            <img src="assets/img/images/th-1/project-img-3.jpg" alt="project-img-3" width="516" height="390"
+                class="h-full w-full object-cover transition-all duration-300 group-hover:scale-110" />
 
-                                    <div
-                                        class="w-[calc(100%-48px) absolute bottom-0 flex flex-col items-start gap-x-10 gap-y-8 p-6 sm:flex-row sm:items-center">
-                                        <div class="max-w-[380px] flex-1 text-colorButteryWhite">
-                                            <a href="portfolio-details.php"
-                                                class="mb-[10px] block font-syne text-2xl font-bold leading-[1.4] group-hover:text-colorLightLime md:text-3xl">Packaging
-                                                Design</a>
-                                            <p class="line-clamp-2">
-                                                Creating packaging solutions for products that not
-                                                only protect attract customers on store.
-                                            </p>
-                                        </div>
-                                        <a href="portfolio-details.php"
-                                            class="relative inline-flex items-start justify-center overflow-hidden">
-                                            <img src="assets/img/icons/icon-buttery-white-arrow-right.svg"
-                                                alt="icon-buttery-white-arrow-right" width="34" height="28"
-                                                class="translate-x-0 opacity-100 transition-all duration-300 group-hover:translate-x-full group-hover:opacity-0" />
-                                            <img src="assets/img/icons/icon-light-lime-arrow-right.svg"
-                                                alt="light-lime-arrow-right" width="34" height="28"
-                                                class="absolute -translate-x-full opacity-0 transition-all duration-300 group-hover:translate-x-0 group-hover:opacity-100" />
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- Single Slide Item -->
-                            <!-- Single Slide Item -->
-                            <div class="swiper-slide">
-                                <div
-                                    class="group relative overflow-hidden rounded-[20px] border-[5px] border-colorButteryWhite">
-                                    <img src="assets/img/images/th-1/project-img-1.jpg" alt="project-img-1" width="516"
-                                        height="390"
-                                        class="h-full w-full object-cover transition-all duration-300 group-hover:scale-110" />
-
-                                    <div
-                                        class="w-[calc(100%-48px) absolute bottom-0 flex flex-col items-start gap-x-10 gap-y-8 p-6 sm:flex-row sm:items-center">
-                                        <div class="max-w-[380px] flex-1 text-colorButteryWhite">
-                                            <a href="portfolio-details.php"
-                                                class="mb-[10px] block font-syne text-2xl font-bold leading-[1.4] group-hover:text-colorLightLime md:text-3xl">Product
-                                                Design</a>
-                                            <p class="line-clamp-2">
-                                                Developing the look and feel of physical products,
-                                                aesthetics, and functionality.
-                                            </p>
-                                        </div>
-                                        <a href="portfolio-details.php"
-                                            class="relative inline-flex items-start justify-center overflow-hidden">
-                                            <img src="assets/img/icons/icon-buttery-white-arrow-right.svg"
-                                                alt="icon-buttery-white-arrow-right" width="34" height="28"
-                                                class="translate-x-0 opacity-100 transition-all duration-300 group-hover:translate-x-full group-hover:opacity-0" />
-                                            <img src="assets/img/icons/icon-light-lime-arrow-right.svg"
-                                                alt="light-lime-arrow-right" width="34" height="28"
-                                                class="absolute -translate-x-full opacity-0 transition-all duration-300 group-hover:translate-x-0 group-hover:opacity-100" />
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- Single Slide Item -->
-                            <!-- Single Slide Item -->
-                            <div class="swiper-slide">
-                                <div
-                                    class="group relative overflow-hidden rounded-[20px] border-[5px] border-colorButteryWhite">
-                                    <img src="assets/img/images/th-1/project-img-2.jpg" alt="project-img-2" width="516"
-                                        height="390"
-                                        class="h-full w-full object-cover transition-all duration-300 group-hover:scale-110" />
-
-                                    <div
-                                        class="w-[calc(100%-48px) absolute bottom-0 flex flex-col items-start gap-x-10 gap-y-8 p-6 sm:flex-row sm:items-center">
-                                        <div class="max-w-[380px] flex-1 text-colorButteryWhite">
-                                            <a href="portfolio-details.php"
-                                                class="mb-[10px] block font-syne text-2xl font-bold leading-[1.4] group-hover:text-colorLightLime md:text-3xl">Logo
-                                                and Branding</a>
-                                            <p class="line-clamp-2">
-                                                Creating or refreshing a company's logo and
-                                                developing a cohesive visual identity.
-                                            </p>
-                                        </div>
-                                        <a href="portfolio-details.php"
-                                            class="relative inline-flex items-start justify-center overflow-hidden">
-                                            <img src="assets/img/icons/icon-buttery-white-arrow-right.svg"
-                                                alt="icon-buttery-white-arrow-right" width="34" height="28"
-                                                class="translate-x-0 opacity-100 transition-all duration-300 group-hover:translate-x-full group-hover:opacity-0" />
-                                            <img src="assets/img/icons/icon-light-lime-arrow-right.svg"
-                                                alt="light-lime-arrow-right" width="34" height="28"
-                                                class="absolute -translate-x-full opacity-0 transition-all duration-300 group-hover:translate-x-0 group-hover:opacity-100" />
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- Single Slide Item -->
-                            <!-- Single Slide Item -->
-                            <div class="swiper-slide">
-                                <div
-                                    class="group relative overflow-hidden rounded-[20px] border-[5px] border-colorButteryWhite">
-                                    <img src="assets/img/images/th-1/project-img-3.jpg" alt="project-img-3" width="516"
-                                        height="390"
-                                        class="h-full w-full object-cover transition-all duration-300 group-hover:scale-110" />
-
-                                    <div
-                                        class="w-[calc(100%-48px) absolute bottom-0 flex flex-col items-start gap-x-10 gap-y-8 p-6 sm:flex-row sm:items-center">
-                                        <div class="max-w-[380px] flex-1 text-colorButteryWhite">
-                                            <a href="portfolio-details.php"
-                                                class="mb-[10px] block font-syne text-2xl font-bold leading-[1.4] group-hover:text-colorLightLime md:text-3xl">App
-                                                UI/UX Design</a>
-                                            <p class="line-clamp-2">
-                                                Designing the UI/UXe for mobile apps and web
-                                                applications to ensure usability & engagement.
-                                            </p>
-                                        </div>
-                                        <a href="portfolio-details.php"
-                                            class="relative inline-flex items-start justify-center overflow-hidden">
-                                            <img src="assets/img/icons/icon-buttery-white-arrow-right.svg"
-                                                alt="icon-buttery-white-arrow-right" width="34" height="28"
-                                                class="translate-x-0 opacity-100 transition-all duration-300 group-hover:translate-x-full group-hover:opacity-0" />
-                                            <img src="assets/img/icons/icon-light-lime-arrow-right.svg"
-                                                alt="light-lime-arrow-right" width="34" height="28"
-                                                class="absolute -translate-x-full opacity-0 transition-all duration-300 group-hover:translate-x-0 group-hover:opacity-100" />
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- Single Slide Item -->
-                            <!-- Single Slide Item -->
-                            <div class="swiper-slide">
-                                <div
-                                    class="group relative overflow-hidden rounded-[20px] border-[5px] border-colorButteryWhite">
-                                    <img src="assets/img/images/th-1/project-img-4.jpg" alt="project-img-4" width="516"
-                                        height="390"
-                                        class="h-full w-full object-cover transition-all duration-300 group-hover:scale-110" />
-
-                                    <div
-                                        class="w-[calc(100%-48px) absolute bottom-0 flex flex-col items-start gap-x-10 gap-y-8 p-6 sm:flex-row sm:items-center">
-                                        <div class="max-w-[380px] flex-1 text-colorButteryWhite">
-                                            <a href="portfolio-details.php"
-                                                class="mb-[10px] block font-syne text-2xl font-bold leading-[1.4] group-hover:text-colorLightLime md:text-3xl">Packaging
-                                                Design</a>
-                                            <p class="line-clamp-2">
-                                                Creating packaging solutions for products that not
-                                                only protect attract customers on store.
-                                            </p>
-                                        </div>
-                                        <a href="portfolio-details.php"
-                                            class="relative inline-flex items-start justify-center overflow-hidden">
-                                            <img src="assets/img/icons/icon-buttery-white-arrow-right.svg"
-                                                alt="icon-buttery-white-arrow-right" width="34" height="28"
-                                                class="translate-x-0 opacity-100 transition-all duration-300 group-hover:translate-x-full group-hover:opacity-0" />
-                                            <img src="assets/img/icons/icon-light-lime-arrow-right.svg"
-                                                alt="light-lime-arrow-right" width="34" height="28"
-                                                class="absolute -translate-x-full opacity-0 transition-all duration-300 group-hover:translate-x-0 group-hover:opacity-100" />
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- Single Slide Item -->
-                        </div>
-                    </div>
-                    <!-- If we need navigation buttons -->
-                    <div
-                        class="static xl:absolute w-full mt-16 xl:mt-0 z-20 flex justify-center xl:justify-between top-1/2 -translate-y-1/2 gap-x-10 px-10">
-                        <div
-                            class="project-button-prev inline-flex h-14 w-14 rounded-[50%] items-center justify-center border-b-2 border-white bg-colorLightLime xl:opacity-0 group-hover/nav:opacity-100 xl:invisible group-hover/nav:visible xl:translate-x-10 group-hover/nav:translate-x-0 transition-all duration-300">
-                            <img src="assets/img/icons/icon-black-arrow-right.svg" alt="icon-black-arrow-right"
-                                width="34" height="28" class="rotate-180" />
-                        </div>
-                        <div
-                            class="project-button-next inline-flex h-14 w-14 rounded-[50%] items-center justify-center border-b-2 border-white bg-colorLightLime xl:opacity-0 group-hover/nav:opacity-100 xl:invisible group-hover/nav:visible xl:-translate-x-10 group-hover/nav:translate-x-0 transition-all duration-300">
-                            <img src="assets/img/icons/icon-black-arrow-right.svg" alt="icon-black-arrow-right"
-                                width="34" height="28" />
-                        </div>
-                    </div>
+            <div
+                class="w-[calc(100%-48px) absolute bottom-0 flex flex-col items-start gap-x-10 gap-y-8 p-6 sm:flex-row sm:items-center">
+                <div class="max-w-[380px] flex-1 text-colorButteryWhite">
+                    <a href="portfolio-details.php"
+                        class="mb-[10px] block font-syne text-2xl font-bold leading-[1.4] group-hover:text-colorLightLime md:text-3xl">App
+                        UI/UX Design</a>
+                    <p class="line-clamp-2">
+                        Designing the UI/UXe for mobile apps and web
+                        applications to ensure usability & engagement.
+                    </p>
                 </div>
-
-                <div class="container mt-10 md:mt-16 lg:mt-20">
-                    <div class="swiper-pagination progressbar-green"></div>
-                </div>
-                <!-- Project Slider Area -->
-                <!-- Section Container -->
+                <a href="portfolio-details.php" class="relative inline-flex items-start justify-center overflow-hidden">
+                    <img src="assets/img/icons/icon-buttery-white-arrow-right.svg" alt="icon-buttery-white-arrow-right"
+                        width="34" height="28"
+                        class="translate-x-0 opacity-100 transition-all duration-300 group-hover:translate-x-full group-hover:opacity-0" />
+                    <img src="assets/img/icons/icon-light-lime-arrow-right.svg" alt="light-lime-arrow-right" width="34"
+                        height="28"
+                        class="absolute -translate-x-full opacity-0 transition-all duration-300 group-hover:translate-x-0 group-hover:opacity-100" />
+                </a>
             </div>
-            <!-- Section Space -->
         </div>
-        <!-- Section Background -->
-    </section>
+    </div>
+
+    <div class="swiper-slide">
+        <div class="group relative overflow-hidden rounded-[20px] border-[5px] border-colorButteryWhite">
+            <img src="assets/img/images/th-1/project-img-4.jpg" alt="project-img-4" width="516" height="390"
+                class="h-full w-full object-cover transition-all duration-300 group-hover:scale-110" />
+
+            <div
+                class="w-[calc(100%-48px) absolute bottom-0 flex flex-col items-start gap-x-10 gap-y-8 p-6 sm:flex-row sm:items-center">
+                <div class="max-w-[380px] flex-1 text-colorButteryWhite">
+                    <a href="portfolio-details.php"
+                        class="mb-[10px] block font-syne text-2xl font-bold leading-[1.4] group-hover:text-colorLightLime md:text-3xl">Packaging
+                        Design</a>
+                    <p class="line-clamp-2">
+                        Creating packaging solutions for products that not
+                        only protect attract customers on store.
+                    </p>
+                </div>
+                <a href="portfolio-details.php" class="relative inline-flex items-start justify-center overflow-hidden">
+                    <img src="assets/img/icons/icon-buttery-white-arrow-right.svg" alt="icon-buttery-white-arrow-right"
+                        width="34" height="28"
+                        class="translate-x-0 opacity-100 transition-all duration-300 group-hover:translate-x-full group-hover:opacity-0" />
+                    <img src="assets/img/icons/icon-light-lime-arrow-right.svg" alt="light-lime-arrow-right" width="34"
+                        height="28"
+                        class="absolute -translate-x-full opacity-0 transition-all duration-300 group-hover:translate-x-0 group-hover:opacity-100" />
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <div class="swiper-slide">
+        <div class="group relative overflow-hidden rounded-[20px] border-[5px] border-colorButteryWhite">
+            <img src="assets/img/images/th-1/project-img-1.jpg" alt="project-img-1" width="516" height="390"
+                class="h-full w-full object-cover transition-all duration-300 group-hover:scale-110" />
+
+            <div
+                class="w-[calc(100%-48px) absolute bottom-0 flex flex-col items-start gap-x-10 gap-y-8 p-6 sm:flex-row sm:items-center">
+                <div class="max-w-[380px] flex-1 text-colorButteryWhite">
+                    <a href="portfolio-details.php"
+                        class="mb-[10px] block font-syne text-2xl font-bold leading-[1.4] group-hover:text-colorLightLime md:text-3xl">Product
+                        Design</a>
+                    <p class="line-clamp-2">
+                        Developing the look and feel of physical products,
+                        aesthetics, and functionality.
+                    </p>
+                </div>
+                <a href="portfolio-details.php" class="relative inline-flex items-start justify-center overflow-hidden">
+                    <img src="assets/img/icons/icon-buttery-white-arrow-right.svg" alt="icon-buttery-white-arrow-right"
+                        width="34" height="28"
+                        class="translate-x-0 opacity-100 transition-all duration-300 group-hover:translate-x-full group-hover:opacity-0" />
+                    <img src="assets/img/icons/icon-light-lime-arrow-right.svg" alt="light-lime-arrow-right" width="34"
+                        height="28"
+                        class="absolute -translate-x-full opacity-0 transition-all duration-300 group-hover:translate-x-0 group-hover:opacity-100" />
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <div class="swiper-slide">
+        <div class="group relative overflow-hidden rounded-[20px] border-[5px] border-colorButteryWhite">
+            <img src="assets/img/images/th-1/project-img-2.jpg" alt="project-img-2" width="516" height="390"
+                class="h-full w-full object-cover transition-all duration-300 group-hover:scale-110" />
+
+            <div
+                class="w-[calc(100%-48px) absolute bottom-0 flex flex-col items-start gap-x-10 gap-y-8 p-6 sm:flex-row sm:items-center">
+                <div class="max-w-[380px] flex-1 text-colorButteryWhite">
+                    <a href="portfolio-details.php"
+                        class="mb-[10px] block font-syne text-2xl font-bold leading-[1.4] group-hover:text-colorLightLime md:text-3xl">Logo
+                        and Branding</a>
+                    <p class="line-clamp-2">
+                        Creating or refreshing a company's logo and
+                        developing a cohesive visual identity.
+                    </p>
+                </div>
+                <a href="portfolio-details.php" class="relative inline-flex items-start justify-center overflow-hidden">
+                    <img src="assets/img/icons/icon-buttery-white-arrow-right.svg" alt="icon-buttery-white-arrow-right"
+                        width="34" height="28"
+                        class="translate-x-0 opacity-100 transition-all duration-300 group-hover:translate-x-full group-hover:opacity-0" />
+                    <img src="assets/img/icons/icon-light-lime-arrow-right.svg" alt="light-lime-arrow-right" width="34"
+                        height="28"
+                        class="absolute -translate-x-full opacity-0 transition-all duration-300 group-hover:translate-x-0 group-hover:opacity-100" />
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <div class="swiper-slide">
+        <div class="group relative overflow-hidden rounded-[20px] border-[5px] border-colorButteryWhite">
+            <img src="assets/img/images/th-1/project-img-3.jpg" alt="project-img-3" width="516" height="390"
+                class="h-full w-full object-cover transition-all duration-300 group-hover:scale-110" />
+
+            <div
+                class="w-[calc(100%-48px) absolute bottom-0 flex flex-col items-start gap-x-10 gap-y-8 p-6 sm:flex-row sm:items-center">
+                <div class="max-w-[380px] flex-1 text-colorButteryWhite">
+                    <a href="portfolio-details.php"
+                        class="mb-[10px] block font-syne text-2xl font-bold leading-[1.4] group-hover:text-colorLightLime md:text-3xl">App
+                        UI/UX Design</a>
+                    <p class="line-clamp-2">
+                        Designing the UI/UXe for mobile apps and web
+                        applications to ensure usability & engagement.
+                    </p>
+                </div>
+                <a href="portfolio-details.php" class="relative inline-flex items-start justify-center overflow-hidden">
+                    <img src="assets/img/icons/icon-buttery-white-arrow-right.svg" alt="icon-buttery-white-arrow-right"
+                        width="34" height="28"
+                        class="translate-x-0 opacity-100 transition-all duration-300 group-hover:translate-x-full group-hover:opacity-0" />
+                    <img src="assets/img/icons/icon-light-lime-arrow-right.svg" alt="light-lime-arrow-right" width="34"
+                        height="28"
+                        class="absolute -translate-x-full opacity-0 transition-all duration-300 group-hover:translate-x-0 group-hover:opacity-100" />
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <div class="swiper-slide">
+        <div class="group relative overflow-hidden rounded-[20px] border-[5px] border-colorButteryWhite">
+            <img src="assets/img/images/th-1/project-img-4.jpg" alt="project-img-4" width="516" height="390"
+                class="h-full w-full object-cover transition-all duration-300 group-hover:scale-110" />
+
+            <div
+                class="w-[calc(100%-48px) absolute bottom-0 flex flex-col items-start gap-x-10 gap-y-8 p-6 sm:flex-row sm:items-center">
+                <div class="max-w-[380px] flex-1 text-colorButteryWhite">
+                    <a href="portfolio-details.php"
+                        class="mb-[10px] block font-syne text-2xl font-bold leading-[1.4] group-hover:text-colorLightLime md:text-3xl">Packaging
+                        Design</a>
+                    <p class="line-clamp-2">
+                        Creating packaging solutions for products that not
+                        only protect attract customers on store.
+                    </p>
+                </div>
+                <a href="portfolio-details.php" class="relative inline-flex items-start justify-center overflow-hidden">
+                    <img src="assets/img/icons/icon-buttery-white-arrow-right.svg" alt="icon-buttery-white-arrow-right"
+                        width="34" height="28"
+                        class="translate-x-0 opacity-100 transition-all duration-300 group-hover:translate-x-full group-hover:opacity-0" />
+                    <img src="assets/img/icons/icon-light-lime-arrow-right.svg" alt="light-lime-arrow-right" width="34"
+                        height="28"
+                        class="absolute -translate-x-full opacity-0 transition-all duration-300 group-hover:translate-x-0 group-hover:opacity-100" />
+                </a>
+            </div>
+        </div>
+    </div>
+
+    </div>
+    </div>
+
+    <div
+        class="static xl:absolute w-full mt-16 xl:mt-0 z-20 flex justify-center xl:justify-between top-1/2 -translate-y-1/2 gap-x-10 px-10">
+        <div
+            class="project-button-prev inline-flex h-14 w-14 rounded-[50%] items-center justify-center border-b-2 border-white bg-colorLightLime xl:opacity-0 group-hover/nav:opacity-100 xl:invisible group-hover/nav:visible xl:translate-x-10 group-hover/nav:translate-x-0 transition-all duration-300">
+            <img src="assets/img/icons/icon-black-arrow-right.svg" alt="icon-black-arrow-right" width="34" height="28"
+                class="rotate-180" />
+        </div>
+        <div
+            class="project-button-next inline-flex h-14 w-14 rounded-[50%] items-center justify-center border-b-2 border-white bg-colorLightLime xl:opacity-0 group-hover/nav:opacity-100 xl:invisible group-hover/nav:visible xl:-translate-x-10 group-hover/nav:translate-x-0 transition-all duration-300">
+            <img src="assets/img/icons/icon-black-arrow-right.svg" alt="icon-black-arrow-right" width="34"
+                height="28" />
+        </div>
+    </div>
+    </div>
+
+    <div class="container mt-10 md:mt-16 lg:mt-20">
+        <div class="swiper-pagination progressbar-green"></div>
+    </div>
+
+    </div>
+
+    </div>
+
+    </section> -->
     <!-- ...::: Portfolio Section End :::... -->
 
     <!-- ...::: Process Section Start :::... -->
@@ -1113,7 +1086,7 @@
                     <!-- Team Item for Snehith Chowdary -->
                     <li class="jos group/team-item" data-jos_delay="0" data-jos_animation="flip-left">
                         <div class="relative overflow-hidden rounded-[20px] border-[5px] border-black">
-                            <img src="assets/img/images/th-1/team-img-1.jpg" alt="Sri Ram" width="296" loading="lazy"
+                            <img src="assets/img/sriram.webp" alt="Sri Ram" width="296" loading="lazy"
                                 class="h-full w-full object-cover transition-all duration-300 group-hover/team-item:scale-110"
                                 style="height:450px;" />
                             <div
