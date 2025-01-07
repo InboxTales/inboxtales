@@ -105,6 +105,25 @@
                     <!-- Service List -->
                     <ul class="grid grid-cols-1 gap-[30px] lg:grid-cols-3">
                         <!-- Service Item -->
+                        <li class="jos" data-jos_delay="2.4">
+                            <div class="shadow-bg group h-full">
+                                <div
+                                    class="flex h-full flex-col items-start overflow-hidden rounded-[20px] border-2 border-black bg-colorIvory p-[30px] transition duration-300 group-hover:bg-colorLightLime">
+                                    <img src="assets/img/icons/th-9-service-icon-6.svg" alt="WhatsApp Marketing Icon"
+                                        width="70" height="70" class="h-[70px] w-auto" />
+                                    <h4 class="mb-[15px] mt-[30px]">WhatsApp Marketing</h4>
+                                    <p class="mb-7">
+                                        Engage your customers directly through WhatsApp with personalized campaigns that
+                                        drive interactions and conversions for your business.
+                                    </p>
+                                    <a href="./whatsapp-marketing.php"
+                                        class="mt-auto inline-block translate-x-0 transition-all duration-300 group-hover:translate-x-5">
+                                        <img src="assets/img/icons/icon-black-arrow-right.svg" alt="Arrow Right Icon"
+                                            width="34" height="28" />
+                                    </a>
+                                </div>
+                            </div>
+                        </li>
                         <li class="jos group/team-item" data-jos_delay="0">
                             <div class="shadow-bg group h-full">
                                 <div
@@ -116,7 +135,7 @@
                                         Your online presence matters. We design responsive, visually appealing websites
                                         that provide excellent user experiences and drive conversions for your business.
                                     </p>
-                                    <a href="service-details.php"
+                                    <a href="./web-design.php"
                                         class="mt-auto inline-block translate-x-0 transition-all duration-300 group-hover:translate-x-5"><img
                                             src="assets/img/icons/icon-black-arrow-right.svg"
                                             alt="icon-black-arrow-right" width="34" height="28" /></a>
@@ -154,7 +173,7 @@
                                         Protect your business from digital threats with our strong security measures,
                                         ensuring peace of mind.
                                     </p>
-                                    <a href="service-details.php"
+                                    <a href="./cyber-security.php"
                                         class="mt-auto inline-block translate-x-0 transition-all duration-300 group-hover:translate-x-5"><img
                                             src="assets/img/icons/icon-black-arrow-right.svg"
                                             alt="icon-black-arrow-right" width="34" height="28" /></a>
@@ -210,7 +229,7 @@
                                         We help businesses attract and convert potential customers into leads with
                                         targeted strategies that work.
                                     </p>
-                                    <a href="service-details.php"
+                                    <a href="./lead-generating.php"
                                         class="mt-auto inline-block translate-x-0 transition-all duration-300 group-hover:translate-x-5"><img
                                             src="assets/img/icons/icon-black-arrow-right.svg" alt="Arrow Right Icon"
                                             width="34" height="28" /></a>
@@ -230,7 +249,7 @@
                                         Engage your audience effectively with creative and data-driven social media
                                         campaigns that deliver results.
                                     </p>
-                                    <a href="service-details.php"
+                                    <a href="./social-media-marketing.php"
                                         class="mt-auto inline-block translate-x-0 transition-all duration-300 group-hover:translate-x-5"><img
                                             src="assets/img/icons/icon-black-arrow-right.svg" alt="Arrow Right Icon"
                                             width="34" height="28" /></a>
@@ -249,10 +268,30 @@
                                         Boost your online visibility and grow your brand with comprehensive digital
                                         marketing strategies tailored to your goals.
                                     </p>
-                                    <a href="service-details.php"
+                                    <a href="./digital-marketing.php"
                                         class="mt-auto inline-block translate-x-0 transition-all duration-300 group-hover:translate-x-5"><img
                                             src="assets/img/icons/icon-black-arrow-right.svg" alt="Arrow Right Icon"
                                             width="34" height="28" /></a>
+                                </div>
+                            </div>
+                        </li>
+                        <!-- Service Item: WhatsApp Marketing -->
+                        <li class="jos" data-jos_delay="2.4">
+                            <div class="shadow-bg group h-full">
+                                <div
+                                    class="flex h-full flex-col items-start overflow-hidden rounded-[20px] border-2 border-black bg-colorIvory p-[30px] transition duration-300 group-hover:bg-colorLightLime">
+                                    <img src="assets/img/icons/th-9-service-icon-6.svg" alt="WhatsApp Marketing Icon"
+                                        width="70" height="70" class="h-[70px] w-auto" />
+                                    <h4 class="mb-[15px] mt-[30px]">WhatsApp Marketing</h4>
+                                    <p class="mb-7">
+                                        Engage your customers directly through WhatsApp with personalized campaigns that
+                                        drive interactions and conversions for your business.
+                                    </p>
+                                    <a href="./whatsapp-marketing.php"
+                                        class="mt-auto inline-block translate-x-0 transition-all duration-300 group-hover:translate-x-5">
+                                        <img src="assets/img/icons/icon-black-arrow-right.svg" alt="Arrow Right Icon"
+                                            width="34" height="28" />
+                                    </a>
                                 </div>
                             </div>
                         </li>
