@@ -13,7 +13,7 @@
             <!-- Service Details Article -->
             <article>
                 <div class="mb-20 block overflow-hidden rounded-[35px] border-2 border-black lg:border-[5px]">
-                    <img src="assets/img/WhatsAppServices.jpg" alt="whatsapp-services-img" width="1286" height="590"
+                    <img src="assets/img/whatsappmarketing.jpeg" alt="whatsapp-services-img" width="1286" height="590"
                         class="h-auto w-full object-cover" />
                 </div>
                 <div class="w-100">
@@ -127,8 +127,7 @@
                 Our process ensures a seamless implementation of WhatsApp services to maximize your business potential.
                 Here's how we approach each project:
             </p>
-            <div
-                class="grid items-center gap-x-14 gap-y-10 lg:grid-cols-[1fr_minmax(0,0.6fr)] xl:gap-x-20 xxl:grid-cols-[1fr_minmax(0,0.85fr)] xxl:gap-x-[100px]">
+            <div class="grid items-center gap-x-14 gap-y-10 ">
                 <!-- Service Content Left Block -->
                 <div class="jos" data-jos_animation="fade-left">
 
@@ -206,13 +205,13 @@
                 <!-- Service Content Left Block -->
 
                 <!-- Service Content Right Block -->
-                <div class="jos" data-jos_animation="fade-right">
+                <!-- <div class="jos" data-jos_animation="fade-right">
                     <div
                         class="mx-auto max-w-[495px] overflow-hidden rounded-[25px] border-2 border-black lg:mx-0 lg:max-w-full lg:border-[5px]">
                         <img src="assets/img/WhatsAppProcess.jpg" alt="whatsapp-process-inner-img" width="548"
                             height="632" class="h-auto w-full object-cover" />
                     </div>
-                </div>
+                </div> -->
                 <!-- Service Content Right Block -->
             </div>
             <!-- Service Content Area -->

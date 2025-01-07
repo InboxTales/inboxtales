@@ -1078,232 +1078,95 @@
                 <!-- Section Block -->
 
                 <!-- Team List -->
-                <ul class="grid grid-cols-1 gap-x-6 gap-y-10 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
-                    <!-- Team  Item -->
+                <ul class="grid grid-cols-1 gap-x-6 gap-y-10 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-3">
+                    <!-- Team Item for Sri Ram -->
                     <li class="jos group/team-item" data-jos_delay="0" data-jos_animation="flip-left">
                         <div class="relative overflow-hidden rounded-[20px] border-[5px] border-black">
-                            <img src="assets/img/images/th-1/team-img-1.jpg" alt="team-img-1" width="296" height="300"
+                            <img src="assets/img/snehith.jpeg" alt="Snehith Chowdary" width="296" style="height:450px;"
                                 loading="lazy"
                                 class="h-full w-full object-cover transition-all duration-300 group-hover/team-item:scale-110" />
-                            <!-- Social Link -->
+
                             <div
                                 class="absolute top-full flex w-full justify-center gap-3 transition-all duration-300 group-hover/team-item:-translate-y-14">
-                                <a href="http://www.twitter.com" target="_blank" rel="noopener noreferrer"
+                                <!-- Social Links (use the appropriate social links for Sri Ram) -->
+                                <!-- <a href="http://www.twitter.com" target="_blank" rel="noopener noreferrer"
                                     class="group/link relative inline-flex h-[34px] w-[34px] items-center justify-center rounded-[50%] border border-colorButteryWhite bg-black transition-all duration-300 hover:border-black hover:bg-colorLightLime hover:shadow-[0_1.5px_0_0] hover:shadow-colorButteryWhite">
-                                    <img src="assets/img/icons/icon-logo-buttery-white-twitter.svg"
-                                        alt="icon-logo-buttery-white-twitter" width="19" height="16"
+                                    <img src="assets/img/icons/icon-logo-buttery-white-twitter.svg" alt="Twitter"
+                                        width="19" height="16"
                                         class="opacity-100 transition-all duration-300 group-hover/link:opacity-0" />
-                                    <img src="assets/img/icons/icon-logo-black-twitter.svg"
-                                        alt="icon-logo-black-twitter" width="19" height="16"
+                                    <img src="assets/img/icons/icon-logo-black-twitter.svg" alt="Twitter" width="19"
+                                        height="16"
                                         class="absolute opacity-0 transition-all duration-300 group-hover/link:opacity-100" />
-                                </a>
-                                <a href="http://www.facebook.com" target="_blank" rel="noopener noreferrer"
-                                    class="group/link relative inline-flex h-[34px] w-[34px] items-center justify-center rounded-[50%] border border-colorButteryWhite bg-black transition-all duration-300 hover:border-black hover:bg-colorLightLime hover:shadow-[0_1.5px_0_0] hover:shadow-colorButteryWhite">
-                                    <img src="assets/img/icons/icon-logo-buttery-white-facebook.svg"
-                                        alt="icon-logo-buttery-white-facebook" width="10" height="17"
-                                        class="opacity-100 transition-all duration-300 group-hover/link:opacity-0" />
-                                    <img src="assets/img/icons/icon-logo-black-facebook.svg"
-                                        alt="icon-logo-black-facebook" width="10" height="17"
-                                        class="absolute opacity-0 transition-all duration-300 group-hover/link:opacity-100" />
-                                </a>
-                                <a href="http://www.instagram.com" target="_blank" rel="noopener noreferrer"
-                                    class="group/link relative inline-flex h-[34px] w-[34px] items-center justify-center rounded-[50%] border border-colorButteryWhite bg-black transition-all duration-300 hover:border-black hover:bg-colorLightLime hover:shadow-[0_1.5px_0_0] hover:shadow-colorButteryWhite">
-                                    <img src="assets/img/icons/icon-logo-buttery-white-instagram.svg"
-                                        alt="icon-logo-buttery-white-instagram" width="17" height="18"
-                                        class="opacity-100 transition-all duration-300 group-hover/link:opacity-0" />
-                                    <img src="assets/img/icons/icon-logo-black-instagram.svg"
-                                        alt="icon-logo-black-instagram" width="17" height="18"
-                                        class="absolute opacity-0 transition-all duration-300 group-hover/link:opacity-100" />
-                                </a>
-                                <a href="http://www.linkedin.com" target="_blank" rel="noopener noreferrer"
-                                    class="group/link relative inline-flex h-[34px] w-[34px] items-center justify-center rounded-[50%] border border-colorButteryWhite bg-black transition-all duration-300 hover:border-black hover:bg-colorLightLime hover:shadow-[0_1.5px_0_0] hover:shadow-colorButteryWhite">
-                                    <img src="assets/img/icons/icon-logo-buttery-white-linkedin.svg"
-                                        alt="icon-logo-buttery-white-linkedin" width="17" height="18"
-                                        class="opacity-100 transition-all duration-300 group-hover/link:opacity-0" />
-                                    <img src="assets/img/icons/icon-logo-black-linkedin.svg"
-                                        alt="icon-logo-black-linkedin" width="17" height="18"
-                                        class="absolute opacity-0 transition-all duration-300 group-hover/link:opacity-100" />
-                                </a>
+                                </a> -->
+                                <!-- Add other social links as needed -->
                             </div>
-                            <!-- Social Link -->
                         </div>
-
                         <div class="mt-5 text-center">
-                            <a href="team-details.php" class="display-heading display-heading-4 mb-4 block">Andrew
-                                Mark</a>
-                            <span class="text-lg md:text-[21px]">CEO & Founder</span>
+                            <a href="team-details.php" class="display-heading display-heading-4 mb-4 block">
+
+                                Snehith Chowdary
+                            </a>
+                            <span class="text-lg md:text-[21px]">Founder</span>
                         </div>
                     </li>
-                    <!-- Team  Item -->
-                    <!-- Team  Item -->
+
+                    <!-- Team Item for Snehith Chowdary -->
                     <li class="jos group/team-item" data-jos_delay="0" data-jos_animation="flip-left">
                         <div class="relative overflow-hidden rounded-[20px] border-[5px] border-black">
-                            <img src="assets/img/images/th-1/team-img-2.jpg" alt="team-img-2" width="296" height="300"
-                                loading="lazy"
-                                class="h-full w-full object-cover transition-all duration-300 group-hover/team-item:scale-110" />
-                            <!-- Social Link -->
+                            <img src="assets/img/images/th-1/team-img-1.jpg" alt="Sri Ram" width="296" loading="lazy"
+                                class="h-full w-full object-cover transition-all duration-300 group-hover/team-item:scale-110"
+                                style="height:450px;" />
                             <div
                                 class="absolute top-full flex w-full justify-center gap-3 transition-all duration-300 group-hover/team-item:-translate-y-14">
-                                <a href="http://www.twitter.com" target="_blank" rel="noopener noreferrer"
+                                <!-- Social Links (use the appropriate social links for Snehith Chowdary) -->
+                                <!-- <a href="http://www.twitter.com" target="_blank" rel="noopener noreferrer"
                                     class="group/link relative inline-flex h-[34px] w-[34px] items-center justify-center rounded-[50%] border border-colorButteryWhite bg-black transition-all duration-300 hover:border-black hover:bg-colorLightLime hover:shadow-[0_1.5px_0_0] hover:shadow-colorButteryWhite">
-                                    <img src="assets/img/icons/icon-logo-buttery-white-twitter.svg"
-                                        alt="icon-logo-buttery-white-twitter" width="19" height="16"
+                                    <img src="assets/img/icons/icon-logo-buttery-white-twitter.svg" alt="Twitter"
+                                        width="19" height="16"
                                         class="opacity-100 transition-all duration-300 group-hover/link:opacity-0" />
-                                    <img src="assets/img/icons/icon-logo-black-twitter.svg"
-                                        alt="icon-logo-black-twitter" width="19" height="16"
+                                    <img src="assets/img/icons/icon-logo-black-twitter.svg" alt="Twitter" width="19"
+                                        height="16"
                                         class="absolute opacity-0 transition-all duration-300 group-hover/link:opacity-100" />
-                                </a>
-                                <a href="http://www.facebook.com" target="_blank" rel="noopener noreferrer"
-                                    class="group/link relative inline-flex h-[34px] w-[34px] items-center justify-center rounded-[50%] border border-colorButteryWhite bg-black transition-all duration-300 hover:border-black hover:bg-colorLightLime hover:shadow-[0_1.5px_0_0] hover:shadow-colorButteryWhite">
-                                    <img src="assets/img/icons/icon-logo-buttery-white-facebook.svg"
-                                        alt="icon-logo-buttery-white-facebook" width="10" height="17"
-                                        class="opacity-100 transition-all duration-300 group-hover/link:opacity-0" />
-                                    <img src="assets/img/icons/icon-logo-black-facebook.svg"
-                                        alt="icon-logo-black-facebook" width="10" height="17"
-                                        class="absolute opacity-0 transition-all duration-300 group-hover/link:opacity-100" />
-                                </a>
-                                <a href="http://www.instagram.com" target="_blank" rel="noopener noreferrer"
-                                    class="group/link relative inline-flex h-[34px] w-[34px] items-center justify-center rounded-[50%] border border-colorButteryWhite bg-black transition-all duration-300 hover:border-black hover:bg-colorLightLime hover:shadow-[0_1.5px_0_0] hover:shadow-colorButteryWhite">
-                                    <img src="assets/img/icons/icon-logo-buttery-white-instagram.svg"
-                                        alt="icon-logo-buttery-white-instagram" width="17" height="18"
-                                        class="opacity-100 transition-all duration-300 group-hover/link:opacity-0" />
-                                    <img src="assets/img/icons/icon-logo-black-instagram.svg"
-                                        alt="icon-logo-black-instagram" width="17" height="18"
-                                        class="absolute opacity-0 transition-all duration-300 group-hover/link:opacity-100" />
-                                </a>
-                                <a href="http://www.linkedin.com" target="_blank" rel="noopener noreferrer"
-                                    class="group/link relative inline-flex h-[34px] w-[34px] items-center justify-center rounded-[50%] border border-colorButteryWhite bg-black transition-all duration-300 hover:border-black hover:bg-colorLightLime hover:shadow-[0_1.5px_0_0] hover:shadow-colorButteryWhite">
-                                    <img src="assets/img/icons/icon-logo-buttery-white-linkedin.svg"
-                                        alt="icon-logo-buttery-white-linkedin" width="17" height="18"
-                                        class="opacity-100 transition-all duration-300 group-hover/link:opacity-0" />
-                                    <img src="assets/img/icons/icon-logo-black-linkedin.svg"
-                                        alt="icon-logo-black-linkedin" width="17" height="18"
-                                        class="absolute opacity-0 transition-all duration-300 group-hover/link:opacity-100" />
-                                </a>
+                                </a> -->
+                                <!-- Add other social links as needed -->
                             </div>
-                            <!-- Social Link -->
                         </div>
-
                         <div class="mt-5 text-center">
-                            <a href="team-details.php" class="display-heading display-heading-4 mb-4 block">Jack
-                                Taylor</a>
-                            <span class="text-lg md:text-[21px]">Senior Designer</span>
+                            <a href="team-details.php" class="display-heading display-heading-4 mb-4 block">
+                                Sri Ram</a>
+                            <span class="text-lg md:text-[21px]">Co- Founder</span>
                         </div>
                     </li>
-                    <!-- Team  Item -->
-                    <!-- Team  Item -->
+
+                    <!-- Team Item for Madav Reddy -->
                     <li class="jos group/team-item" data-jos_delay="0" data-jos_animation="flip-left">
                         <div class="relative overflow-hidden rounded-[20px] border-[5px] border-black">
-                            <img src="assets/img/images/th-1/team-img-4.jpg" alt="team-img-4" width="296" height="300"
-                                loading="lazy"
+                            <img src="./assets/img/madhav.webp" alt="Madav Reddy" width="296"
+                                style="height:450px; object-position:50% 10%;" loading="lazy"
                                 class="h-full w-full object-cover transition-all duration-300 group-hover/team-item:scale-110" />
-                            <!-- Social Link -->
                             <div
                                 class="absolute top-full flex w-full justify-center gap-3 transition-all duration-300 group-hover/team-item:-translate-y-14">
-                                <a href="http://www.twitter.com" target="_blank" rel="noopener noreferrer"
+                                <!-- Social Links (use the appropriate social links for Madav Reddy) -->
+                                <!-- <a href="http://www.twitter.com" target="_blank" rel="noopener noreferrer"
                                     class="group/link relative inline-flex h-[34px] w-[34px] items-center justify-center rounded-[50%] border border-colorButteryWhite bg-black transition-all duration-300 hover:border-black hover:bg-colorLightLime hover:shadow-[0_1.5px_0_0] hover:shadow-colorButteryWhite">
-                                    <img src="assets/img/icons/icon-logo-buttery-white-twitter.svg"
-                                        alt="icon-logo-buttery-white-twitter" width="19" height="16"
+                                    <img src="assets/img/icons/icon-logo-buttery-white-twitter.svg" alt="Twitter"
+                                        width="19" height="16"
                                         class="opacity-100 transition-all duration-300 group-hover/link:opacity-0" />
-                                    <img src="assets/img/icons/icon-logo-black-twitter.svg"
-                                        alt="icon-logo-black-twitter" width="19" height="16"
+                                    <img src="assets/img/icons/icon-logo-black-twitter.svg" alt="Twitter" width="19"
+                                        height="16"
                                         class="absolute opacity-0 transition-all duration-300 group-hover/link:opacity-100" />
-                                </a>
-                                <a href="http://www.facebook.com" target="_blank" rel="noopener noreferrer"
-                                    class="group/link relative inline-flex h-[34px] w-[34px] items-center justify-center rounded-[50%] border border-colorButteryWhite bg-black transition-all duration-300 hover:border-black hover:bg-colorLightLime hover:shadow-[0_1.5px_0_0] hover:shadow-colorButteryWhite">
-                                    <img src="assets/img/icons/icon-logo-buttery-white-facebook.svg"
-                                        alt="icon-logo-buttery-white-facebook" width="10" height="17"
-                                        class="opacity-100 transition-all duration-300 group-hover/link:opacity-0" />
-                                    <img src="assets/img/icons/icon-logo-black-facebook.svg"
-                                        alt="icon-logo-black-facebook" width="10" height="17"
-                                        class="absolute opacity-0 transition-all duration-300 group-hover/link:opacity-100" />
-                                </a>
-                                <a href="http://www.instagram.com" target="_blank" rel="noopener noreferrer"
-                                    class="group/link relative inline-flex h-[34px] w-[34px] items-center justify-center rounded-[50%] border border-colorButteryWhite bg-black transition-all duration-300 hover:border-black hover:bg-colorLightLime hover:shadow-[0_1.5px_0_0] hover:shadow-colorButteryWhite">
-                                    <img src="assets/img/icons/icon-logo-buttery-white-instagram.svg"
-                                        alt="icon-logo-buttery-white-instagram" width="17" height="18"
-                                        class="opacity-100 transition-all duration-300 group-hover/link:opacity-0" />
-                                    <img src="assets/img/icons/icon-logo-black-instagram.svg"
-                                        alt="icon-logo-black-instagram" width="17" height="18"
-                                        class="absolute opacity-0 transition-all duration-300 group-hover/link:opacity-100" />
-                                </a>
-                                <a href="http://www.linkedin.com" target="_blank" rel="noopener noreferrer"
-                                    class="group/link relative inline-flex h-[34px] w-[34px] items-center justify-center rounded-[50%] border border-colorButteryWhite bg-black transition-all duration-300 hover:border-black hover:bg-colorLightLime hover:shadow-[0_1.5px_0_0] hover:shadow-colorButteryWhite">
-                                    <img src="assets/img/icons/icon-logo-buttery-white-linkedin.svg"
-                                        alt="icon-logo-buttery-white-linkedin" width="17" height="18"
-                                        class="opacity-100 transition-all duration-300 group-hover/link:opacity-0" />
-                                    <img src="assets/img/icons/icon-logo-black-linkedin.svg"
-                                        alt="icon-logo-black-linkedin" width="17" height="18"
-                                        class="absolute opacity-0 transition-all duration-300 group-hover/link:opacity-100" />
-                                </a>
+                                </a> -->
+                                <!-- Add other social links as needed -->
                             </div>
-                            <!-- Social Link -->
                         </div>
-
                         <div class="mt-5 text-center">
-                            <a href="team-details.php" class="display-heading display-heading-4 mb-4 block">Martine
-                                Joy</a>
-                            <span class="text-lg md:text-[21px]">Project Manager</span>
+                            <a href="team-details.php" class="display-heading display-heading-4 mb-4 block">Madav
+                                Reddy</a>
+                            <span class="text-lg md:text-[21px]">Cloud Expert</span>
                         </div>
                     </li>
-                    <!-- Team  Item -->
-                    <!-- Team  Item -->
-                    <li class="jos group/team-item" data-jos_delay="0" data-jos_animation="flip-left">
-                        <div class="relative overflow-hidden rounded-[20px] border-[5px] border-black">
-                            <img src="assets/img/images/th-1/team-img-3.jpg" alt="team-img-3" width="296" height="300"
-                                loading="lazy"
-                                class="h-full w-full object-cover transition-all duration-300 group-hover/team-item:scale-110" />
-                            <!-- Social Link -->
-                            <div
-                                class="absolute top-full flex w-full justify-center gap-3 transition-all duration-300 group-hover/team-item:-translate-y-14">
-                                <a href="http://www.twitter.com" target="_blank" rel="noopener noreferrer"
-                                    class="group/link relative inline-flex h-[34px] w-[34px] items-center justify-center rounded-[50%] border border-colorButteryWhite bg-black transition-all duration-300 hover:border-black hover:bg-colorLightLime hover:shadow-[0_1.5px_0_0] hover:shadow-colorButteryWhite">
-                                    <img src="assets/img/icons/icon-logo-buttery-white-twitter.svg"
-                                        alt="icon-logo-buttery-white-twitter" width="19" height="16"
-                                        class="opacity-100 transition-all duration-300 group-hover/link:opacity-0" />
-                                    <img src="assets/img/icons/icon-logo-black-twitter.svg"
-                                        alt="icon-logo-black-twitter" width="19" height="16"
-                                        class="absolute opacity-0 transition-all duration-300 group-hover/link:opacity-100" />
-                                </a>
-                                <a href="http://www.facebook.com" target="_blank" rel="noopener noreferrer"
-                                    class="group/link relative inline-flex h-[34px] w-[34px] items-center justify-center rounded-[50%] border border-colorButteryWhite bg-black transition-all duration-300 hover:border-black hover:bg-colorLightLime hover:shadow-[0_1.5px_0_0] hover:shadow-colorButteryWhite">
-                                    <img src="assets/img/icons/icon-logo-buttery-white-facebook.svg"
-                                        alt="icon-logo-buttery-white-facebook" width="10" height="17"
-                                        class="opacity-100 transition-all duration-300 group-hover/link:opacity-0" />
-                                    <img src="assets/img/icons/icon-logo-black-facebook.svg"
-                                        alt="icon-logo-black-facebook" width="10" height="17"
-                                        class="absolute opacity-0 transition-all duration-300 group-hover/link:opacity-100" />
-                                </a>
-                                <a href="http://www.instagram.com" target="_blank" rel="noopener noreferrer"
-                                    class="group/link relative inline-flex h-[34px] w-[34px] items-center justify-center rounded-[50%] border border-colorButteryWhite bg-black transition-all duration-300 hover:border-black hover:bg-colorLightLime hover:shadow-[0_1.5px_0_0] hover:shadow-colorButteryWhite">
-                                    <img src="assets/img/icons/icon-logo-buttery-white-instagram.svg"
-                                        alt="icon-logo-buttery-white-instagram" width="17" height="18"
-                                        class="opacity-100 transition-all duration-300 group-hover/link:opacity-0" />
-                                    <img src="assets/img/icons/icon-logo-black-instagram.svg"
-                                        alt="icon-logo-black-instagram" width="17" height="18"
-                                        class="absolute opacity-0 transition-all duration-300 group-hover/link:opacity-100" />
-                                </a>
-                                <a href="http://www.linkedin.com" target="_blank" rel="noopener noreferrer"
-                                    class="group/link relative inline-flex h-[34px] w-[34px] items-center justify-center rounded-[50%] border border-colorButteryWhite bg-black transition-all duration-300 hover:border-black hover:bg-colorLightLime hover:shadow-[0_1.5px_0_0] hover:shadow-colorButteryWhite">
-                                    <img src="assets/img/icons/icon-logo-buttery-white-linkedin.svg"
-                                        alt="icon-logo-buttery-white-linkedin" width="17" height="18"
-                                        class="opacity-100 transition-all duration-300 group-hover/link:opacity-0" />
-                                    <img src="assets/img/icons/icon-logo-black-linkedin.svg"
-                                        alt="icon-logo-black-linkedin" width="17" height="18"
-                                        class="absolute opacity-0 transition-all duration-300 group-hover/link:opacity-100" />
-                                </a>
-                            </div>
-                            <!-- Social Link -->
-                        </div>
-
-                        <div class="mt-5 text-center">
-                            <a href="team-details.php" class="display-heading display-heading-4 mb-4 block">Adam
-                                Straw</a>
-                            <span class="text-lg md:text-[21px]">Web Developer</span>
-                        </div>
-                    </li>
-                    <!-- Team  Item -->
                 </ul>
+
                 <!-- Team List -->
             </div>
             <!-- Section Container -->
