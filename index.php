@@ -325,22 +325,13 @@
                 <!-- About Area -->
                 <div class="grid grid-cols-1 gap-x-6 gap-y-10 md:grid-cols-2 lg:grid-cols-[0.8fr_0.4fr]">
                     <!-- About Left Block - Video -->
-                    <div
-                        class="jos relative flex items-center justify-center overflow-hidden rounded-[25px] border-[5px] border-black">
-                        <img src="assets/img/images/th-1/about-img.jpg" alt="about-img" width="846" height="476"
-                            loading="lazy" class="h-full w-full object-cover" />
-
-                        <div class="absolute inline-block">
-                            <!-- <a data-fslightbox="gallery" href="https://www.youtube.com/watch?v=3nQNiWdeH2Q"
-                                class="btn-primary relative pr-16" aria-label="video-play">
-                                Play
-                                <span
-                                    class="rounded-[50% absolute right-[0px] inline-flex items-center justify-center"><img
-                                        src="assets/img/icons/icon-buttery-white-black-play.svg"
-                                        alt="icon-buttery-white-black-play" width="50" height="50" /></span>
-                            </a> -->
-                        </div>
-                    </div>
+                    <div style="padding:56.25% 0 0 0;position:relative;"><iframe
+                            src="https://player.vimeo.com/video/1050311858?h=dff1b32e82&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479&autoplay=1&loop=1&background=1&autopause=0"
+                            frameborder="0"
+                            allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media"
+                            style="position:absolute;top:0;left:0;width:100%;height:100%;"
+                            title="What Is InboxTales"></iframe></div>
+                    <script src="https://player.vimeo.com/api/player.js"></script>
                     <!-- About Left Block - Video -->
 
                     <!-- About Right Block - Counter Up -->
