@@ -17,13 +17,13 @@
                 <div class="jos" data-jos_animation="fade-left">
                     <!-- Section Block -->
                     <div class="section-block mb-10 md:mb-[60px] xl:mb-20">
-                        <h2>
+                        <h1 class="text-4xl font-bold">
                             Contact us for a
                             <span>
-                                <img src="assets/img/elemnts/shape-light-lime-5-arms-star.svg" alt="shape-light-lime-5-arms-star" width="74" height="70" class="relative inline-block h-auto w-8 after:bg-black md:w-10 lg:w-[57px]" />
+                                <img src="assets/img/elemnts/shape-light-lime-5-arms-star.svg" alt="Star shape decoration" width="74" height="70" class="relative inline-block h-auto w-8 after:bg-black md:w-10 lg:w-[57px]" />
                             </span>
                             personal experience
-                        </h2>
+                        </h1>
                     </div>
                     <!-- Section Block -->
 
@@ -32,25 +32,25 @@
                         <!-- Form Group -->
                         <div>
                             <label for="contact-name" class="mb-3 block pl-6 text-base font-bold">Your name</label>
-                            <input type="text" name="contact-name" id="contact-name" class="w-full rounded-[50px] border border-black bg-colorIvory px-8 py-4 text-base font-bold" required />
+                            <input type="text" name="contact-name" id="contact-name" class="w-full rounded-[50px] border border-black bg-colorIvory px-8 py-4 text-base font-bold" placeholder="Enter your full name" required />
                         </div>
                         <!-- Form Group -->
                         <!-- Form Group -->
                         <div>
                             <label for="contact-email" class="mb-3 block pl-6 text-base font-bold">Email Address</label>
-                            <input type="email" name="contact-email" id="contact-email" class="w-full rounded-[50px] border border-black bg-colorIvory px-8 py-4 text-base font-bold" required />
+                            <input type="email" name="contact-email" id="contact-email" class="w-full rounded-[50px] border border-black bg-colorIvory px-8 py-4 text-base font-bold" placeholder="Enter your email address" required />
                         </div>
                         <!-- Form Group -->
                         <!-- Form Group -->
                         <div>
                             <label for="contact-phone" class="mb-3 block pl-6 text-base font-bold">Phone No</label>
-                            <input type="tel" name="contact-phone" id="contact-phone" class="w-full rounded-[50px] border border-black bg-colorIvory px-8 py-4 text-base font-bold" required />
+                            <input type="tel" name="contact-phone" id="contact-phone" class="w-full rounded-[50px] border border-black bg-colorIvory px-8 py-4 text-base font-bold" placeholder="+91 XXXXX XXXXX" required />
                         </div>
                         <!-- Form Group -->
                         <!-- Form Group -->
                         <div>
-                            <label for="contact-massage" class="mb-3 block pl-6 text-base font-bold">Write your message here...</label>
-                            <textarea name="contact-massage" id="contact-massage" class="min-h-52 w-full rounded-[20px] border border-black bg-colorIvory px-8 py-4 text-base font-bold"></textarea>
+                            <label for="contact-message" class="mb-3 block pl-6 text-base font-bold">Write your message here...</label>
+                            <textarea name="contact-message" id="contact-message" class="min-h-52 w-full rounded-[20px] border border-black bg-colorIvory px-8 py-4 text-base font-bold" placeholder="Tell us about your project requirements"></textarea>
                         </div>
                         <!-- Form Group -->
                         <!-- Form Group -->
@@ -67,7 +67,7 @@
 
                 <!-- Contact Form Right Block - Image-->
                 <div class="jos hidden overflow-hidden rounded-[20px] border-2 border-black lg:block lg:border-[5px]" data-jos_animation="fade-right">
-                    <img src="assets/img/images/th-1/contact-img.jpg" alt="contact-img" width="456" height="731" class="h-full w-full object-cover" />
+                    <img src="assets/img/Contact us.png" alt="InboxTales contact page image" width="456" height="731" class="h-full w-full object-cover" />
                 </div>
                 <!-- Contact Form Right Block - Image-->
             </div>
@@ -90,7 +90,7 @@
                 <h2 class="jos">
                     Contact Information
                     <span>
-                        <img src="assets/img/elemnts/shape-light-lime-5-arms-star.svg" alt="shape-light-lime-5-arms-star" width="74" height="70" class="relative inline-block h-auto w-8 after:bg-black md:w-10 lg:w-[57px]" />
+                        <img src="assets/img/elemnts/shape-light-lime-5-arms-star.svg" alt="Star shape decoration" width="74" height="70" class="relative inline-block h-auto w-8 after:bg-black md:w-10 lg:w-[57px]" />
                     </span>
                 </h2>
             </div>
@@ -101,13 +101,12 @@
                 <!-- Contact Info Item -->
                 <li class="jos flex gap-x-6 rounded-[10px] bg-black px-5 py-[30px] xl:px-8 xxl:px-[70px]">
                     <div class="h-auto w-10">
-                        <img src="assets/img/icons/icon-buttery-white-phone.svg" alt="icon-buttery-white-phone" width="30" height="30" class="h-auto w-10" />
+                        <img src="assets/img/icons/icon-buttery-white-phone.svg" alt="Phone icon" width="30" height="30" class="h-auto w-10" />
                     </div>
                     <div class="flex-1">
                         <span class="mb-3 block text-xl font-bold text-colorButteryWhite xl:text-2xl">Call us</span>
                         <div class="flex flex-col text-lg leading-[1.42] lg:text-[21px]">
-                            <a href="tel:+0123456789" class="text-colorButteryWhite hover:text-colorLightLime">+012-345-6789</a>
-                            <a href="tel:+0123456789" class="text-colorButteryWhite hover:text-colorLightLime">+012-345-6789</a>
+                            <a href="tel:+919640470432" class="text-colorButteryWhite hover:text-colorLightLime">+91 96404 70432</a>
                         </div>
                     </div>
                 </li>
@@ -115,13 +114,12 @@
                 <!-- Contact Info Item -->
                 <li class="jos flex gap-x-6 rounded-[10px] bg-black px-5 py-[30px] xl:px-8 xxl:px-[70px]">
                     <div class="h-auto w-10">
-                        <img src="assets/img/icons/icon-buttery-white-mail.svg" alt="icon-buttery-white-mail" width="40" height="40" class="h-auto w-10" />
+                        <img src="assets/img/icons/icon-buttery-white-mail.svg" alt="Email icon" width="40" height="40" class="h-auto w-10" />
                     </div>
                     <div class="flex-1">
                         <span class="mb-3 block text-xl font-bold text-colorButteryWhite xl:text-2xl">Email us</span>
                         <div class="flex flex-col text-lg leading-[1.42] lg:text-[21px]">
-                            <a href="mailto:" class="text-colorButteryWhite hover:text-colorLightLime">example@gmail.com</a>
-                            <a href="mailto:" class="text-colorButteryWhite hover:text-colorLightLime">example@gmail.com</a>
+                            <a href="mailto:contact@inboxtales.com" class="text-colorButteryWhite hover:text-colorLightLime">contact@inboxtales.com</a>
                         </div>
                     </div>
                 </li>
@@ -129,13 +127,13 @@
                 <!-- Contact Info Item -->
                 <li class="jos flex gap-x-6 rounded-[10px] bg-black px-5 py-[30px] xl:px-8 xxl:px-[70px]">
                     <div class="h-auto w-10">
-                        <img src="assets/img/icons/icon-buttery-white-location-marker.svg" alt="icon-buttery-white-location-marker" width="40" height="40" class="h-auto w-10" />
+                        <img src="assets/img/icons/icon-buttery-white-location-marker.svg" alt="Location marker icon" width="40" height="40" class="h-auto w-10" />
                     </div>
                     <div class="flex-1">
                         <span class="mb-3 block text-xl font-bold text-colorButteryWhite xl:text-2xl">Office address</span>
                         <div class="flex flex-col text-lg leading-[1.42] lg:text-[21px]">
                             <address class="not-italic text-colorButteryWhite">
-                                4132 Thornridge City, New York.
+                                Hyderabad
                             </address>
                         </div>
                     </div>
@@ -147,7 +145,7 @@
             <!-- Location Map Block -->
             <div class="jos mt-10 md:mt-[60px] lg:mt-20">
                 <div class="h-96 w-full overflow-hidden rounded-[20px] border-2 border-black lg:h-[600px] lg:rounded-[30px] lg:border-[5px]">
-                    <iframe class="h-full w-full" src="https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=1%20Grafton%20Street,%20Dublin,%20Ireland+(My%20Business%20Name)&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"></iframe>
+                    <img src="assets/img/About us 4.png" alt="InboxTales office location" class="h-full w-full object-cover" />
                 </div>
             </div>
             <!-- Location Map Block -->
@@ -173,7 +171,7 @@
                 <h2 class="jos">
                     These FAQs help
                     <span>
-                        <img src="assets/img/elemnts/shape-light-lime-5-arms-star.svg" alt="shape-light-lime-5-arms-star" width="74" height="70" class="relative inline-block h-auto w-8 after:bg-black md:w-10 lg:w-[57px]" />
+                        <img src="assets/img/elemnts/shape-light-lime-5-arms-star.svg" alt="Star shape decoration" width="74" height="70" class="relative inline-block h-auto w-8 after:bg-black md:w-10 lg:w-[57px]" />
                     </span>
                     clients learn about us
                 </h2>
@@ -187,7 +185,7 @@
                     <!-- FAQ Item -->
                     <li class="jos flex flex-col gap-y-4">
                         <!-- FAQ Header Block -->
-                        <h4 class="relative pl-10 before:absolute before:left-0 before:top-1 before:h-[30px] before:w-[30px] before:bg-[url(../img/icons/icon-lightlime-question.svg)]">
+                        <h4 class="relative pl-10 before:absolute before:left-0 before:top-1 before:h-[30px] before:w-[30px] before:bg-[url('assets/img/icons/icon-lightlime-question.svg')]">
                             What services does agency offer?
                         </h4>
                         <!-- FAQ Header Block -->
@@ -198,6 +196,7 @@
                                 services an agency provides, such as graphic design, web
                                 design, branding.
                             </p>
+                            <img src="assets/img/webDevelopment.jpg" alt="Web Development Services" class="mt-4 rounded-lg w-full h-48 object-cover" />
                         </div>
                         <!-- FAQ Body -->
                     </li>
@@ -205,7 +204,7 @@
                     <!-- FAQ Item -->
                     <li class="jos flex flex-col gap-y-4">
                         <!-- FAQ Header Block -->
-                        <h4 class="relative pl-10 before:absolute before:left-0 before:top-1 before:h-[30px] before:w-[30px] before:bg-[url(../img/icons/icon-lightlime-question.svg)]">
+                        <h4 class="relative pl-10 before:absolute before:left-0 before:top-1 before:h-[30px] before:w-[30px] before:bg-[url('assets/img/icons/icon-lightlime-question.svg')]">
                             What is your design process like?
                         </h4>
                         <!-- FAQ Header Block -->
@@ -216,6 +215,7 @@
                                 concept to final delivery helps clients understand what
                                 to expect.
                             </p>
+                            <img src="assets/img/graphicDesign.jpg" alt="Design Process" class="mt-4 rounded-lg w-full h-48 object-cover" />
                         </div>
                         <!-- FAQ Body -->
                     </li>
@@ -223,7 +223,7 @@
                     <!-- FAQ Item -->
                     <li class="jos flex flex-col gap-y-4">
                         <!-- FAQ Header Block -->
-                        <h4 class="relative pl-10 before:absolute before:left-0 before:top-1 before:h-[30px] before:w-[30px] before:bg-[url(../img/icons/icon-lightlime-question.svg)]">
+                        <h4 class="relative pl-10 before:absolute before:left-0 before:top-1 before:h-[30px] before:w-[30px] before:bg-[url('assets/img/icons/icon-lightlime-question.svg')]">
                             How much does design work cost?
                         </h4>
                         <!-- FAQ Header Block -->
@@ -234,6 +234,7 @@
                                 scope of the project. We provide customized quotes after
                                 discussing requirements.
                             </p>
+                            <img src="assets/img/DigitalMarketing.jpg" alt="Digital Marketing Services" class="mt-4 rounded-lg w-full h-48 object-cover" />
                         </div>
                         <!-- FAQ Body -->
                     </li>
@@ -246,7 +247,7 @@
                     <!-- FAQ Item -->
                     <li class="jos flex flex-col gap-y-4">
                         <!-- FAQ Header Block -->
-                        <h4 class="relative pl-10 before:absolute before:left-0 before:top-1 before:h-[30px] before:w-[30px] before:bg-[url(../img/icons/icon-lightlime-question.svg)]">
+                        <h4 class="relative pl-10 before:absolute before:left-0 before:top-1 before:h-[30px] before:w-[30px] before:bg-[url('assets/img/icons/icon-lightlime-question.svg')]">
                             What's your design process like?
                         </h4>
                         <!-- FAQ Header Block -->
@@ -257,6 +258,7 @@
                                 development, design, revisions based on feedback, and
                                 finalization.
                             </p>
+                            <img src="assets/img/appDevelopment.jpg" alt="App Development Process" class="mt-4 rounded-lg w-full h-48 object-cover" />
                         </div>
                         <!-- FAQ Body -->
                     </li>
@@ -264,7 +266,7 @@
                     <!-- FAQ Item -->
                     <li class="jos flex flex-col gap-y-4">
                         <!-- FAQ Header Block -->
-                        <h4 class="relative pl-10 before:absolute before:left-0 before:top-1 before:h-[30px] before:w-[30px] before:bg-[url(../img/icons/icon-lightlime-question.svg)]">
+                        <h4 class="relative pl-10 before:absolute before:left-0 before:top-1 before:h-[30px] before:w-[30px] before:bg-[url('assets/img/icons/icon-lightlime-question.svg')]">
                             How do you handle user feedback?
                         </h4>
                         <!-- FAQ Header Block -->
@@ -275,6 +277,7 @@
                                 make sure user happy with the final design. We offer a
                                 specific number of revisions.
                             </p>
+                            <img src="assets/img/SocailMediaMarketing.jpg" alt="Social Media Marketing" class="mt-4 rounded-lg w-full h-48 object-cover" />
                         </div>
                         <!-- FAQ Body -->
                     </li>
@@ -282,7 +285,7 @@
                     <!-- FAQ Item -->
                     <li class="jos flex flex-col gap-y-4">
                         <!-- FAQ Header Block -->
-                        <h4 class="relative pl-10 before:absolute before:left-0 before:top-1 before:h-[30px] before:w-[30px] before:bg-[url(../img/icons/icon-lightlime-question.svg)]">
+                        <h4 class="relative pl-10 before:absolute before:left-0 before:top-1 before:h-[30px] before:w-[30px] before:bg-[url('assets/img/icons/icon-lightlime-question.svg')]">
                             Can we see samples of your work?
                         </h4>
                         <!-- FAQ Header Block -->
@@ -293,6 +296,7 @@
                                 projects. You can find examples of our work on our
                                 website or view our portfolio.
                             </p>
+                            <img src="assets/img/LeadGeneration.jpg" alt="Lead Generation Services" class="mt-4 rounded-lg w-full h-48 object-cover" />
                         </div>
                         <!-- FAQ Body -->
                     </li>

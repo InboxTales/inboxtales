@@ -43,7 +43,7 @@
 
                                 <p class="my-4">
                                     As a first-generation immigrant, money and networks
-                                    weren’t given to me. So instead of going through the
+                                    weren't given to me. So instead of going through the
                                     front door, I tried a back door approach...
                                 </p>
 
@@ -80,8 +80,8 @@
 
                                 <p class="my-4">
                                     Making more money with the help of AI tools. — Up
-                                    until now, I’ve shared two posts discussing the AI
-                                    tools I’ve incorporated into my...
+                                    until now, I've shared two posts discussing the AI
+                                    tools I've incorporated into my...
                                 </p>
 
                                 <a href="blog-details.php">
@@ -153,13 +153,11 @@
                         <li>
                             <h4 class="mb-4">Search:</h4>
 
-                            <form action="#" method="get">
-                                <div class="relative">
-                                    <input type="search" placeholder="Type keyword here" class="w-full rounded-[50px] border border-black bg-colorIvory px-[30px] py-[14px] pr-16 outline-none placeholder:text-black" required />
-                                    <button type="submit" class="absolute right-[5px] top-[5px] inline-flex h-[50px] w-[50px] items-center justify-center rounded-[50%] bg-black">
-                                        <img src="assets/img/icons/icon-buttery-white-search.svg" alt="icon-buttery-white-search" width="24" height="24" />
-                                    </button>
-                                </div>
+                            <form action="#" class="relative">
+                                <input type="search" placeholder="Search articles, news, and guides" class="w-full rounded-[50px] border border-black bg-colorIvory px-[30px] py-[14px] pr-16 outline-none placeholder:text-black" required />
+                                <button type="submit" class="absolute right-6 top-1/2 -translate-y-1/2">
+                                    <img src="assets/img/icons/icon-black-search.svg" alt="Search icon" width="24" height="24" />
+                                </button>
                             </form>
                         </li>
                         <!-- Sidebar Item - Search -->

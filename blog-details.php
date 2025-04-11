@@ -73,18 +73,18 @@
                             <!-- Blog Details Content Block-->
                             <div class="rich-text">
                                 <p>
-                                    By definition, most high-value skill stacks can’t be
+                                    By definition, most high-value skill stacks can't be
                                     taught in schools. If the masses could easily access
-                                    them, they wouldn’t be high-value skills anymore. You
+                                    them, they wouldn't be high-value skills anymore. You
                                     would become replaceable. And value comes from scarcity.
-                                    Here’s the skill stack to thrive as a one-person
+                                    Here's the skill stack to thrive as a one-person
                                     business.
                                 </p>
                                 <p>
                                     <strong class="block font-semibold">#1: Learn to Tweet your way into a boardroom
                                     </strong>
                                     As a first-generation immigrant, money and networks
-                                    weren’t given to me. So instead of going through the
+                                    weren't given to me. So instead of going through the
                                     front door, I tried a back door approach.
                                 </p>
                                 <p>
@@ -298,28 +298,19 @@
                         </div>
                         <!-- Blog Comments -->
 
-                        <!-- Blog Comments Form -->
-                        <div class="jos mt-8">
-                            <div class="display-heading display-heading-4 mb-6">
-                                Leave a comments:
+                        <!-- Comment Form -->
+                        <form action="#" class="mt-[60px]">
+                            <h4 class="mb-[30px]">Leave a Comment</h4>
+                            <div class="grid grid-cols-1 gap-x-6 gap-y-[30px] md:grid-cols-2">
+                                <input type="text" placeholder="Enter your full name*" class="w-full border-b border-[#999999] bg-[#FFFDF8] py-4 font-bold outline-none" required />
+                                <input type="email" placeholder="Enter your email address*" class="w-full border-b border-[#999999] bg-[#FFFDF8] py-4 font-bold outline-none" required />
                             </div>
-
-                            <form action="#" method="post" class="grid grid-cols-1 gap-y-6 rounded-[10px] border-2 border-black bg-[#FFFDF8] p-10">
-                                <div class="grid grid-cols-1 gap-6 md:grid-cols-2">
-                                    <input type="text" placeholder="Your Name*" class="w-full border-b border-[#999999] bg-[#FFFDF8] py-4 font-bold outline-none" required />
-                                    <input type="email" placeholder="Email Address*" class="w-full border-b border-[#999999] bg-[#FFFDF8] py-4 font-bold outline-none" required />
-                                </div>
-                                <div class="grid grid-cols-1 gap-6">
-                                    <textarea class="min-h-[150px] w-full border-b border-[#999999] bg-[#FFFDF8] py-4 font-bold outline-none" placeholder="Write us your comment" required></textarea>
-                                </div>
-                                <div class="mt-7 flex justify-start gap-6">
-                                    <button type="submit" class="inline-block rounded-[50px] bg-black px-8 py-[18px] text-base font-bold leading-none text-white hover:bg-colorLightLime hover:text-black">
-                                        Send Message
-                                    </button>
-                                </div>
-                            </form>
-                        </div>
-                        <!-- Blog Comments Form -->
+                            <textarea rows="4" class="mt-[30px] w-full border-b border-[#999999] bg-[#FFFDF8] py-4 font-bold outline-none" placeholder="Share your thoughts on this article..." required></textarea>
+                            <button type="submit" class="btn-black mt-[30px]">
+                                Post Comment
+                            </button>
+                        </form>
+                        <!-- Comment Form -->
                     </div>
                     <!-- Blog Left Side -->
 
