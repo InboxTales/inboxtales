@@ -44,12 +44,17 @@
     <link rel="stylesheet" href="assets/css/vendors/menu.css" />
 
     <!-- Custom CSS -->
-    <link rel="stylesheet" href="assets/css/custom.css" />
-    <!-- Development css -->
-    <link rel="stylesheet" href="assets/css/style.css" />
+    <?php if (getenv('ENVIRONMENT') === 'production'): ?>
+        <link rel="stylesheet" href="assets/css/style.min.css" />
+    <?php else: ?>
+        <link rel="stylesheet" href="assets/css/custom.css" />
+        <link rel="stylesheet" href="assets/css/style.css" />
+    <?php endif; ?>
 
-    <!-- Production css -->
-    <!-- <link rel="stylesheet" href="/assets/css/style.min.css" /> -->
+    <!-- Image Optimization -->
+    <link rel="preload" as="image" href="assets/img/logo.png" />
+    <link rel="dns-prefetch" href="https://www.googletagmanager.com" />
+    <link rel="preconnect" href="https://www.googletagmanager.com" />
 
     <!-- Schema.org markup for Google+ -->
     <script type="application/ld+json">

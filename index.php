@@ -21,14 +21,14 @@
                         <!-- Hero Left Block -->
                         <div class="text-center text-colorButteryWhite lg:text-start">
                             <h1>
-                                Let’s Write <span class="inline-flex items-center gap-5"> Your Success Together.
+                                Let's Write <span class="inline-flex items-center gap-5"> Your Success Together.
 
 
                                     </h2>
                                     <p class="mb-10 mt-6 text-lg leading-[1.4] md:mb-14 lg:text-[21px]">
                                         Do you want to take your business to the next level? We help you grow your
                                         business with the right strategies, personalised services, and measurable
-                                        solutions. Let’s begin your journey to success today!
+                                        solutions. Let's begin your journey to success today!
                                     </p>
                                     <!-- 
                                     <div
@@ -53,13 +53,16 @@
                                         <span
                                             class="absolute right-[5px] inline-flex h-[50px] w-[50px] items-center justify-center rounded-[50%] bg-black"><img
                                                 src="assets/img/icons/icon-buttery-white-phone.svg"
-                                                alt="icon-buttery-white-phone" width="30" height="30" /></span></a>
+                                                alt="icon-buttery-white-phone" width="30" height="30" loading="lazy"
+                                                class="h-[30px] w-[30px]" /></span></a>
                         </div>
                         <!-- Hero Left Block -->
                         <!-- Hero Right Block -->
                         <div
                             class="mx-auto inline-block max-w-[495px] overflow-hidden rounded-[25px] bg-colorButteryWhite p-[5px] lg:mx-0">
                             <img src="assets/img/images/th-1/hero-img.png" alt="hero-img" width="485" height="540"
+                                loading="eager"
+                                fetchpriority="high"
                                 class="h-full w-full rounded-[20px] object-cover" />
                         </div>
                         <!-- Hero Right Block -->
@@ -96,6 +99,7 @@
                                 solutions
                                 <img src="assets/img/elemnts/shape-light-lime-5-arms-star.svg"
                                     alt="shape-light-lime-5-arms-star" width="74" height="70"
+                                    loading="lazy"
                                     class="relative inline-block h-auto w-8 after:bg-black md:w-10 lg:w-[57px]" />
                             </span>
                         </h2>
@@ -310,6 +314,7 @@
                                 your
                                 <img src="assets/img/elemnts/shape-light-lime-5-arms-star.svg"
                                     alt="shape-light-lime-5-arms-star" width="74" height="70"
+                                    loading="lazy"
                                     class="relative inline-block h-auto w-8 after:bg-black md:w-10 lg:w-[57px]" />
                             </span>
                             business tale of growth
@@ -674,6 +679,7 @@
                                 streamlined
                                 <img src="assets/img/elemnts/shape-light-lime-5-arms-star.svg"
                                     alt="shape-light-lime-5-arms-star" width="74" height="70"
+                                    loading="lazy"
                                     class="relative inline-block h-auto w-8 after:bg-black md:w-10 lg:w-[57px]" />
                             </span>
                             working process
