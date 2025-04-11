@@ -1,0 +1,25 @@
+{
+    "name": "inboxtales/inboxtales",
+    "description": "InboxTales - Digital Marketing and Web Development Services",
+    "type": "project",
+    "require": {
+        "php": ">=7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "InboxTales\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "InboxTales",
+            "email": "contact@inboxtales.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "config": {
+        "optimize-autoloader": true,
+        "preferred-install": "dist",
+        "sort-packages": true
+    }
+} 
