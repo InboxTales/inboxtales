@@ -1,6 +1,7 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="google-site-verification" content="HESQ76MDxk-_4mkiRs-Lw5C4n1O-0nFmLq2MuW75cGU" />
     <title><?php echo isset($title) ? $title . ' | InboxTales' : 'InboxTales - A tech start for your developmental journey'; ?></title>
     
     <!-- Meta Description -->
