@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,200..800&family=Manrope:wght@200..800&display=swap');
+
+/* Import Custom Brand Fonts */
+@import '../assets/css/fonts.css';
+@import '../assets/css/brand-fonts.css';
+
+/* InboxTales Brand Colors */
+:root {
+  --color-brand-primary: #fa4616;
+  --color-brand-dark: #1f2328;
+  --color-brand-light: #fafafa;
+  --color-brand-primary-hover: #e03d12;
+  --color-brand-dark-hover: #2a2f36;
+}
+
+/* Optionally, update main colors for the rest of the site */
+:root {
+  --main-color: var(--color-brand-dark);
+  --heading-color: var(--color-brand-dark);
+  --primary-color: var(--color-brand-primary);
+  --lighter-color: var(--color-brand-dark);
+  --subtitle-color: #888888;
+  --black-color: var(--color-brand-dark);
+  --border-color: var(--color-brand-primary);
+  --button-border: var(--color-brand-primary);
+  --body-background: var(--color-brand-light);
+  --white-color: #fff;
+}
+
+/* icon */
+@import "../assets/fonts/remixicon.css";
+
+/* bootstrap */
+@import 'bootstrap/dist/css/bootstrap.min.css';
+/* css */
+@import '../assets/css/spacing';
+@import '../assets/css/style';
+@import '../assets/css/responsive.css';
+
+/* Additional compact styling for better screen fit */
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  min-height: 100vh;
+  overflow-x: hidden;
+  font-family: 'San Diego', sans-serif;
+}
+
+/* Reduce container max-widths for better fit */
+.container {
+  max-width: 1200px;
+}
+
+.container-fluid {
+  max-width: 1400px;
+}
+
+/* Compact spacing for sections */
+section {
+  padding: 40px 0;
+}
+
+/* Responsive font sizing */
+@media (max-width: 768px) {
+  h1, .h1 { font-size: 32px !important; }
+  h2, .h2 { font-size: 16px !important; }
+  h3, .h3 { font-size: 20px !important; }
+  h4, .h4 { font-size: 18px !important; }
+  h5, .h5 { font-size: 14px !important; }
+  h6, .h6 { font-size: 12px !important; }
+  p { font-size: 13px !important; line-height: 20px !important; }
+}
+
+@media (max-width: 480px) {
+  h1, .h1 { font-size: 28px !important; }
+  h2, .h2 { font-size: 14px !important; }
+  h3, .h3 { font-size: 18px !important; }
+  h4, .h4 { font-size: 16px !important; }
+  h5, .h5 { font-size: 13px !important; }
+  h6, .h6 { font-size: 11px !important; }
+  p { font-size: 12px !important; line-height: 18px !important; }
+}
+
+/* Ensure proper viewport handling */
+* {
+  box-sizing: border-box;
+}
+
+/* Compact margins and padding */
+.mb-5 { margin-bottom: 2rem !important; }
+.mt-5 { margin-top: 2rem !important; }
+.py-5 { padding-top: 2rem !important; padding-bottom: 2rem !important; }
+.px-5 { padding-left: 2rem !important; padding-right: 2rem !important; }
+
+@media (max-width: 768px) {
+  .mb-5 { margin-bottom: 1.5rem !important; }
+  .mt-5 { margin-top: 1.5rem !important; }
+  .py-5 { padding-top: 1.5rem !important; padding-bottom: 1.5rem !important; }
+  .px-5 { padding-left: 1.5rem !important; padding-right: 1.5rem !important; }
+}

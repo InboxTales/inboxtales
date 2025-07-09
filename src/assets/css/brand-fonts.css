@@ -1,0 +1,206 @@
+/* Brand Font Styling and Optimizations */
+
+/* Font Loading Optimizations */
+.font-display-swap {
+  font-display: swap;
+}
+
+/* Brand Font Classes */
+.font-brand {
+  font-family: 'San Diego', sans-serif;
+}
+
+.font-secondary {
+  font-family: 'DM Sans', sans-serif;
+}
+
+/* Typography Scale with Brand Fonts */
+.brand-heading {
+  font-family: 'San Diego', sans-serif;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+
+.brand-heading-light {
+  font-family: 'San Diego', sans-serif;
+  font-weight: 300;
+  letter-spacing: -0.01em;
+}
+
+.brand-heading-medium {
+  font-family: 'San Diego', sans-serif;
+  font-weight: 500;
+  letter-spacing: -0.015em;
+}
+
+.brand-text {
+  font-family: 'San Diego', sans-serif;
+  font-weight: 400;
+  line-height: 1.6;
+}
+
+.brand-text-medium {
+  font-family: 'San Diego', sans-serif;
+  font-weight: 500;
+  line-height: 1.5;
+}
+
+.brand-text-bold {
+  font-family: 'San Diego', sans-serif;
+  font-weight: 700;
+  line-height: 1.4;
+}
+
+/* Secondary Font for Specific Use Cases */
+.secondary-text {
+  font-family: 'DM Sans', sans-serif;
+  font-weight: 400;
+  line-height: 1.6;
+}
+
+.secondary-text-medium {
+  font-family: 'DM Sans', sans-serif;
+  font-weight: 500;
+  line-height: 1.5;
+}
+
+.secondary-text-bold {
+  font-family: 'DM Sans', sans-serif;
+  font-weight: 700;
+  line-height: 1.4;
+}
+
+/* Hero Section Typography */
+.hero-title {
+  font-family: 'San Diego', sans-serif;
+  font-weight: 800;
+  font-size: clamp(2.5rem, 5vw, 4rem);
+  line-height: 1.1;
+  letter-spacing: -0.03em;
+}
+
+.hero-subtitle {
+  font-family: 'San Diego', sans-serif;
+  font-weight: 400;
+  font-size: clamp(1.1rem, 2vw, 1.25rem);
+  line-height: 1.4;
+  letter-spacing: -0.01em;
+}
+
+.hero-description {
+  font-family: 'San Diego', sans-serif;
+  font-weight: 400;
+  font-size: clamp(1rem, 1.5vw, 1.125rem);
+  line-height: 1.6;
+}
+
+/* Section Headings */
+.section-title-brand {
+  font-family: 'San Diego', sans-serif;
+  font-weight: 700;
+  font-size: clamp(1.75rem, 3vw, 2.5rem);
+  line-height: 1.2;
+  letter-spacing: -0.02em;
+}
+
+.section-subtitle-brand {
+  font-family: 'San Diego', sans-serif;
+  font-weight: 400;
+  font-size: clamp(1rem, 1.5vw, 1.125rem);
+  line-height: 1.4;
+  letter-spacing: -0.01em;
+}
+
+/* Button Typography */
+.btn-brand {
+  font-family: 'San Diego', sans-serif;
+  font-weight: 600;
+  letter-spacing: 0.01em;
+}
+
+/* Navigation Typography */
+.nav-brand {
+  font-family: 'San Diego', sans-serif;
+  font-weight: 500;
+  letter-spacing: 0.01em;
+}
+
+/* Card and Content Typography */
+.card-title-brand {
+  font-family: 'San Diego', sans-serif;
+  font-weight: 600;
+  font-size: 1.25rem;
+  line-height: 1.3;
+  letter-spacing: -0.01em;
+}
+
+.card-text-brand {
+  font-family: 'San Diego', sans-serif;
+  font-weight: 400;
+  line-height: 1.6;
+}
+
+/* Testimonial Typography */
+.testimonial-text-brand {
+  font-family: 'San Diego', sans-serif;
+  font-weight: 400;
+  font-style: italic;
+  line-height: 1.7;
+}
+
+.testimonial-author-brand {
+  font-family: 'San Diego', sans-serif;
+  font-weight: 600;
+  letter-spacing: 0.01em;
+}
+
+/* Footer Typography */
+.footer-brand {
+  font-family: 'San Diego', sans-serif;
+  font-weight: 500;
+}
+
+.footer-text-brand {
+  font-family: 'San Diego', sans-serif;
+  font-weight: 400;
+}
+
+/* Responsive Font Sizing */
+@media (max-width: 768px) {
+  .hero-title {
+    font-size: clamp(2rem, 8vw, 3rem);
+  }
+  
+  .section-title-brand {
+    font-size: clamp(1.5rem, 6vw, 2rem);
+  }
+  
+  .card-title-brand {
+    font-size: 1.125rem;
+  }
+}
+
+/* Font Loading Fallbacks */
+.font-loading {
+  font-family: 'San Diego', 'Arial', sans-serif;
+}
+
+.font-loading-secondary {
+  font-family: 'DM Sans', 'Arial', sans-serif;
+}
+
+/* Smooth Font Transitions */
+* {
+  transition: font-family 0.1s ease-in-out;
+}
+
+/* Font Feature Settings for Better Rendering */
+.font-brand {
+  font-feature-settings: "liga" 1, "kern" 1;
+  text-rendering: optimizeLegibility;
+}
+
+.font-secondary {
+  font-feature-settings: "liga" 1, "kern" 1;
+  text-rendering: optimizeLegibility;
+} 
