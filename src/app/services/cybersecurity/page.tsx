@@ -1,6 +1,7 @@
 import React from 'react';
 import { Metadata } from 'next';
 import styles from '../../industries/startups-smes/startups-smes.module.css';
+import { SparklesText } from '@/components/ui/SparklesText';
 
 export const metadata: Metadata = {
   title: 'Cybersecurity Services | InboxTales - Digital Agency',
@@ -65,7 +66,7 @@ export default function CybersecurityPage() {
             <div className="col-lg-8 mx-auto text-center mb-5">
               <div className={styles.sectionBadge}>Security Solutions</div>
               <h2 className={styles.sectionTitle}>
-                Comprehensive <span className={styles.highlight}>Cybersecurity</span> Solutions
+                Comprehensive <SparklesText className={styles.highlight}>Cybersecurity</SparklesText> Solutions
               </h2>
               <p className={styles.sectionSubtitle}>
                 We provide end-to-end cybersecurity services to protect your business from evolving threats
