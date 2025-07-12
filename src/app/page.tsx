@@ -32,7 +32,7 @@ const Home = () => {
       <Services />
       {/* <Projects /> */}
       {/* <RecentProjects /> */}
-      {/* <Partners /> */}
+      <Partners />
       {/* <Features /> */}
       <Faqs />
       {/* <Booking /> */}

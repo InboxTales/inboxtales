@@ -8,10 +8,11 @@
 
 .hero {
   position: relative;
-  padding: 120px 0 60px;
+  padding: 140px 0 60px;
   text-align: center;
   background: #FFFFFF;
   color: #1F2328;
+  margin-top: 80px;
 }
 
 .heroTitle {

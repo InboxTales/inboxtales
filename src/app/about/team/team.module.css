@@ -1,0 +1,96 @@
+/* Team Page Styles */
+
+.page {
+  background: #ffffff;
+  color: #1F2328;
+}
+
+/* Hero */
+.hero {
+  padding: 120px 0 60px;
+  text-align: center;
+}
+.heroTitle {
+  font-size: 3rem;
+  font-weight: 900;
+  margin-bottom: 16px;
+}
+.heroSubtitle {
+  font-size: 1.25rem;
+  color: #555;
+  max-width: 720px;
+  margin: 0 auto;
+}
+
+/* Overview */
+.sectionTitle {
+  font-size: 2rem;
+  font-weight: 800;
+  margin-bottom: 16px;
+  text-align: center;
+}
+.sectionSubtitle {
+  color: #555;
+  max-width: 720px;
+  margin: 0 auto 48px auto;
+  text-align: center;
+}
+
+/* Team Cards */
+.grid {
+  display: grid;
+  gap: 32px;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+}
+.card {
+  background: #ffffff;
+  border: 1px solid #E5E7EB;
+  border-radius: 24px;
+  padding: 32px;
+  text-align: center;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.04);
+  transition: transform .3s ease, box-shadow .3s ease;
+}
+.card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 20px rgba(0,0,0,0.08);
+}
+.memberImage {
+  border-radius: 50%;
+  overflow: hidden;
+  margin: 0 auto 16px;
+}
+.memberName {
+  font-size: 1.25rem;
+  font-weight: 700;
+  margin-bottom: 4px;
+}
+.position {
+  color: #fa4616;
+  font-weight: 600;
+  margin-bottom: 12px;
+}
+.bio {
+  font-size: 0.95rem;
+  color: #555;
+}
+
+/* Values */
+.valuesGrid {
+  display: grid;
+  gap: 32px;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+}
+.valueCard {
+  padding: 32px;
+  background: #ffffff;
+  border: 1px solid #E5E7EB;
+  border-radius: 24px;
+  text-align: center;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.04);
+}
+.valueIcon {
+  font-size: 2rem;
+  color: #fa4616;
+  margin-bottom: 12px;
+} 
